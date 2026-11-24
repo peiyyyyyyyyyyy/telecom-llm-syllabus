@@ -1,0 +1,2746 @@
+# 1.9 電信研究前沿　GSMA 練習題（1449 題）（第 2／8 頁）
+
+所屬：[1.9 電信研究前沿](1-9.md)
+
+只收 GSMA 訓練題；不含驗證集與測試集，並已去除和驗證／測試題相同或相似、重複、標註衝突的題目。題目依小節歸類（抽查正確率約 95%）。
+
+頁次：[1](1-9-gsma-1.md)　**2**　[3](1-9-gsma-3.md)　[4](1-9-gsma-4.md)　[5](1-9-gsma-5.md)　[6](1-9-gsma-6.md)　[7](1-9-gsma-7.md)　[8](1-9-gsma-8.md)
+
+## 1.9.1 新興多天線與多重接取：大規模 MIMO、NOMA、RIS 與網路控制中繼器（369 題）（續）
+
+**1.9.1-201.** When can power-domain NOMA (Non-orthogonal multiple access) be used?
+
+- A. Power-domain NOMA cannot be used in H-CRANs
+- B. When the channel conditions from RRHs to UEs have limited diversity
+- C. When the channel conditions from RRHs to UEs are perfect
+- D. When the channel conditions from RRHs to UEs are irrelevant
+- E. When the channel conditions from RRHs to UEs have sufficient diversity
+
+<details><summary>看答案</summary>
+
+正解：E　（GSMA `teleqna-train-3542`）
+
+</details>
+
+**1.9.1-202.** Which of the following statements about Multi-User MIMO is true?
+
+- A. The terminals in Multi-User MIMO can collaborate among themselves to transmit or receive data
+- B. Multi-User MIMO requires multiple transmitters and multiple receiver antennas
+- C. The propagation environment for Multi-User MIMO is typically line-of-sight
+- D. The total throughput of the reverse link in Multi-User MIMO is always greater than the sum-capacity of the forward link
+- E. Multi-User MIMO is especially effective when the number of antennas greatly exceeds the number of terminals
+
+<details><summary>看答案</summary>
+
+正解：E　（GSMA `teleqna-train-3557`）
+
+</details>
+
+**1.9.1-203.** What determines the amplitude and phase response applied by the IOS (intelligent omni-surface) to incident signals?
+
+- A. The size of each element
+- B. The ON/OFF state of the PIN diodes
+- C. The direction of incidence
+- D. The predetermined frequency band
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-3565`）
+
+</details>
+
+**1.9.1-204.** Which strategy uses multiple beams to increase the utilized spatial degrees of freedom in the downlink channel?
+
+- A. Transmit only to the best user
+- B. Transmit in a time-varying beam
+- C. Transmit in multiple orthogonal beams
+- D. Transmit using opportunistic beamforming
+- E. Transmitting to all the users simultaneously
+
+<details><summary>看答案</summary>
+
+正解：C　（GSMA `teleqna-train-3583`）
+
+</details>
+
+**1.9.1-205.** What are the advantages of using reconfigurable intelligent surfaces (RISs)?
+
+- A. Circumvention of blockage issues in mmWave communication
+- B. Creation of virtual line-of-sight (LoS) propagation path
+- C. Cost-effective solution to eliminate blockages and fill coverage holes
+- D. All of the above
+- E. None of the above
+
+<details><summary>看答案</summary>
+
+正解：D　（GSMA `teleqna-train-3610`）
+
+</details>
+
+**1.9.1-206.** How does an RIS (reconfigurable intelligent surfaces) differ from reflectarrays and array lenses?
+
+- A. An RIS is co-located with the transmitter or receiver
+- B. An RIS uses fixed beamforming patterns
+- C. An RIS is not co-located with the transmitter or receiver
+- D. An RIS has higher interference with other users
+- E. An RIS has limited reconfigurability
+
+<details><summary>看答案</summary>
+
+正解：C　（GSMA `teleqna-train-3625`）
+
+</details>
+
+**1.9.1-207.** In the joint precoder and common rate optimization for RSMA, what are examples of different design objectives?
+
+- A. Maximizing the WSR, maximizing the minimum rate among users (max-min rate), maximizing the EE, and minimizing the sum-power consumption.
+- B. Maximizing the EE, minimizing the sum-power consumption, minimizing the max-min rate, and maximizing the WSR.
+- C. Maximizing the WSR, minimizing the sum-power consumption, minimizing the max-min rate, and maximizing the capacity.
+- D. Maximizing the EE, maximizing the sum-power consumption, maximizing the max-min rate, and minimizing the WSR.
+- E. Maximizing the WSR, maximizing the sum-power consumption, maximizing the max-min rate, and maximizing the capacity.
+
+<details><summary>看答案</summary>
+
+正解：A　（GSMA `teleqna-train-3626`）
+
+</details>
+
+**1.9.1-208.** What is the impact of near-field regime on the SNR (signal-to-noise ratio) convergence for large RIS (reconfigurable intelligent surface) arrays?
+
+- A. It depends on the propagation loss models
+- B. It decreases the SNR convergence rate
+- C. It increases the SNR convergence rate
+- D. It has no impact on the SNR convergence
+- E. It causes the SNR to converge to a finite upper limit
+
+<details><summary>看答案</summary>
+
+正解：E　（GSMA `teleqna-train-3650`）
+
+</details>
+
+**1.9.1-209.** What is the purpose of mixed digital-optical beamforming?
+
+- A. To maximize the signal-to-interference-plus-noise-ratio (SINR) at each UE
+- B. To increase the cost, complexity, and power consumption of RAPs
+- C. To decrease the overall interference floor in cell-free massive MIMO
+- D. To reduce the number of RF chains in a hybrid digital-analog beamforming scheme
+
+<details><summary>看答案</summary>
+
+正解：A　（GSMA `teleqna-train-3686`）
+
+</details>
+
+**1.9.1-210.** What is the advantage of RIS (reconfigurable intelligent surface) in optical wireless communications?
+
+- A. Improving coverage range and reducing outage probability
+- B. Enabling high gains and reconstructing propagation path
+- C. Maximizing the power sensed by the nano-network
+- D. Improving the accuracy of localization
+- E. Enhancing the signal quality of intended users and decreasing interference signals
+
+<details><summary>看答案</summary>
+
+正解：A　（GSMA `teleqna-train-3745`）
+
+</details>
+
+**1.9.1-211.** What does UM-MIMO stand for?
+
+- A. Ultra-Max MIMO
+- B. Universal Mobile MIMO
+- C. Ultra-MIMO
+- D. Ultra-massive MIMO
+
+<details><summary>看答案</summary>
+
+正解：D　（GSMA `teleqna-train-3747`）
+
+</details>
+
+**1.9.1-212.** What are the advantages of the proposed metasurface-based RF (radio frequency) chain-free transmitter and space-down-conversion receiver?
+
+- A. Low hardware complexity
+- B. Reduced hardware cost
+- C. Ability to manipulate EM waves
+- D. All of the above
+
+<details><summary>看答案</summary>
+
+正解：D　（GSMA `teleqna-train-3755`）
+
+</details>
+
+**1.9.1-213.** What is the role of the control circuit board in the hardware architecture of the IRS (Intelligent reflecting surface)?
+
+- A. To interact with incident signals
+- B. To avoid signal energy leakage
+- C. To adjust the reflection amplitude/phase shift of each element
+- D. To serve as a gateway for low-rate information exchange
+
+<details><summary>看答案</summary>
+
+正解：C　（GSMA `teleqna-train-3777`）
+
+</details>
+
+**1.9.1-214.** How can the dynamic modulation of an IRS (Intelligent Reflecting Surfaces) be achieved?
+
+- A. By using materials with variable electrical properties.
+- B. By using expensive and complex phase shifters.
+- C. By limiting the unit cell phase range.
+- D. By reducing the sidelobes in the radiation pattern.
+
+<details><summary>看答案</summary>
+
+正解：A　（GSMA `teleqna-train-3808`）
+
+</details>
+
+**1.9.1-215.** What is the effect of misalignment fading on the bit error rate performance in RIS-assisted communication systems?
+
+- A. It has no effect on bit error rate performance
+- B. It increases the bit error rate performance
+- C. It decreases the bit error rate performance
+- D. It requires additional power to maintain the same bit error rate performance
+- E. It stabilizes the bit error rate performance
+
+<details><summary>看答案</summary>
+
+正解：D　（GSMA `teleqna-train-3810`）
+
+</details>
+
+**1.9.1-216.** Which multiple access scheme allows users to transmit simultaneously and distinguish signals by power levels?
+
+- A. TDMA
+- B. FDMA
+- C. CDMA
+- D. NOMA
+- E. WDMA
+
+<details><summary>看答案</summary>
+
+正解：D　（GSMA `teleqna-train-3825`）
+
+</details>
+
+**1.9.1-217.** What is one of the potential applications of IRS (intelligent reflecting surface) in UAV (unmanned aerial vehicle) communications?
+
+- A. Enhancing communication quality from UAV to ground user
+- B. Improving signal gain at the BS
+- C. Maximizing the average achievable rate
+- D. Minimizing the worst-case mean-squared-error
+- E. None of the above
+
+<details><summary>看答案</summary>
+
+正解：A　（GSMA `teleqna-train-3845`）
+
+</details>
+
+**1.9.1-218.** What are the three modes in which the RIS (reconfigurable intelligent surface) can be configured?
+
+- A. Reflecting mode, diffraction mode, and scattering mode
+- B. Transmitting mode, receiving mode, and combining mode
+- C. Reflecting mode, transmitting mode, and simultaneously reflecting and transmitting mode
+- D. Reflecting mode, transmitting mode, and diffraction mode
+- E. Scattering mode, diffraction mode, and combining mode
+
+<details><summary>看答案</summary>
+
+正解：C　（GSMA `teleqna-train-3950`）
+
+</details>
+
+**1.9.1-219.** What is the key feature of massive MIMO networks?
+
+- A. Massive MIMO achieves high power-gain, reducing the required transmit power.
+- B. Massive MIMO improves throughput by serving more users.
+- C. Massive MIMO averages out channel estimation errors and small-scale fading effects.
+- D. Massive MIMO achieves a high spectrum efficiency.
+- E. All of the above.
+
+<details><summary>看答案</summary>
+
+正解：E　（GSMA `teleqna-train-3969`）
+
+</details>
+
+**1.9.1-220.** Which electronic devices can be used to achieve real-time reflection adjustment in the IRS (Intelligent reflecting surface)?
+
+- A. Positive-intrinsic-negative (PIN) diodes
+- B. Field-effect transistors (FETs)
+- C. Micro-electromechanical system (MEMS) switches
+- D. All of the above
+
+<details><summary>看答案</summary>
+
+正解：D　（GSMA `teleqna-train-4001`）
+
+</details>
+
+**1.9.1-221.** What is the benefit of using IRS (intelligent reflecting surface) in wireless power transfer?
+
+- A. Enhanced signal power at the receiver
+- B. Increased size of active antenna array
+- C. Reduced power consumption at the beacon station
+- D. Improved physical layer security
+- E. None of the above
+
+<details><summary>看答案</summary>
+
+正解：A　（GSMA `teleqna-train-4033`）
+
+</details>
+
+**1.9.1-222.** What is the major limiting factor of the achievable performance in noncooperative multi-cell LS-MIMO systems?
+
+- A. Narrowband interference
+- B. ICI (intercarrier interference)
+- C. Pilot contamination
+- D. Co-channel interference
+- E. It depends on the number of antennas
+
+<details><summary>看答案</summary>
+
+正解：C　（GSMA `teleqna-train-4040`）
+
+</details>
+
+**1.9.1-223.** What is the HPBW (half-power beamwidth) of RIS (reconfigurable intelligent surface)?
+
+- A. Equal to the antenna array's HPBW at the same reflect/transmit angle
+- B. Greater than the antenna array's HPBW when all weights are equal
+- C. Less than the antenna array's HPBW
+- D. Depends on the distance between the transmitter and RIS
+- E. Varies with the carrier frequency
+
+<details><summary>看答案</summary>
+
+正解：A　（GSMA `teleqna-train-4057`）
+
+</details>
+
+**1.9.1-224.** How can RIS (reconfigurable intelligent surface) improve the rank deficiency in MIMO communications?
+
+- A. By aligning the phases of incident signals
+- B. By reducing Doppler spread
+- C. By adding more antennas to the system
+- D. By adding MPCs with different spatial angles
+- E. By adjusting the transmit power
+
+<details><summary>看答案</summary>
+
+正解：D　（GSMA `teleqna-train-4119`）
+
+</details>
+
+**1.9.1-225.** Why do Reconfigurable intelligent surfaces require less operational and transmission energy than traditional multiple-input multiple-output systems?
+
+- A. They have a virtual multiple-input multiple-output structure.
+- B. They have a single RF chain.
+- C. They use solar power.
+- D. They are smaller in size than phased array structures.
+- E. They have reduced hardware costs.
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-4134`）
+
+</details>
+
+**1.9.1-226.** What are the three operation paradigms for realizing the combination of NOMA (non orthogonal multiple access) with CR (cognitive radio) in H-CRANs (heterogeneous cloud radio access networks)?
+
+- A. Opportunistic access, Spectrum-sharing mode, and Cooperation mode
+- B. Spectrum-sharing mode, Relay mode, and Opportunistic access
+- C. Opportunistic access, Spectrum-sharing mode, and Sensing-sharing mode
+- D. Sensing-sharing mode, Spectrum-sharing mode, and Relay mode
+
+<details><summary>看答案</summary>
+
+正解：C　（GSMA `teleqna-train-4152`）
+
+</details>
+
+**1.9.1-227.** Which types of metasurfaces are useful for guiding surface waves or leaky waves?
+
+- A. Metasurfaces with dominant electric polarizability
+- B. Metasurfaces with dominant magnetic polarizability
+- C. Metasurfaces with impedance matching
+- D. Metasurfaces with arbitrary field discontinuities
+- E. Metasurfaces with high transmission coefficients
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-4209`）
+
+</details>
+
+**1.9.1-228.** What is the advantage of using environmental information for user identification in FDST (frequency-domain sparse transmission)?
+
+- A. Improved security
+- B. Reduction in transmission and decoding latencies
+- C. Simplification of user identification process
+- D. All of the above
+
+<details><summary>看答案</summary>
+
+正解：D　（GSMA `teleqna-train-4228`）
+
+</details>
+
+**1.9.1-229.** Which technique utilizes multiple antennas to improve the stealthiness of wireless channels?
+
+- A. Spread Spectrum
+- B. AN Generation
+- C. Cooperative Relaying
+- D. (Massive) Multiple Antennas
+- E. Millimeter-Wave Communications
+
+<details><summary>看答案</summary>
+
+正解：D　（GSMA `teleqna-train-4272`）
+
+</details>
+
+**1.9.1-230.** What is the advantage of using IRS (Intelligent Reflective Surface) in an over-the-air computation system?
+
+- A. Reduces the estimation error by 4 orders of magnitude
+- B. Enables blind transmissions without large antenna arrays
+- C. Improves communication quality in a CoMAC system
+- D. Minimizes the aggregation error in FL
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-4294`）
+
+</details>
+
+**1.9.1-231.** What is the purpose of rate-splitting (RS) strategies in broadcast channels of single-antenna systems?
+
+- A. To cancel inter-user interference completely
+- B. To convey part of the information in a shared common stream and decode part of the inter-user interference
+- C. To maximize signal-to-noise ratio (SNR)
+- D. To minimize computational complexity
+- E. To improve the performance of MIMO systems
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-4308`）
+
+</details>
+
+**1.9.1-232.** Which type of beamforming architecture requires a dedicated RF (radio-frequency) chain for each antenna element?
+
+- A. Hybrid beamforming
+- B. Analog beamforming
+- C. Digital beamforming
+- D. Switch-based beamforming
+
+<details><summary>看答案</summary>
+
+正解：C　（GSMA `teleqna-train-4338`）
+
+</details>
+
+**1.9.1-233.** What are the necessary technologies to achieve distributed MIMO? 
+
+- A. Technology to switch communication paths and track beams
+- B. Technology to control propagation paths
+- C. Technology to deploy distributed antennas
+- D. Technology to achieve multi-user transmission
+- E. All of the above
+
+<details><summary>看答案</summary>
+
+正解：E　（GSMA `teleqna-train-4343`）
+
+</details>
+
+**1.9.1-234.** Where can RISs be installed?
+
+- A. At the transceiver ends
+- B. On the walls, ceilings, or rooftops of moving vehicles
+- C. Anywhere in the transmission medium
+- D. Only indoors
+- E. None of the above
+
+<details><summary>看答案</summary>
+
+正解：C　（GSMA `teleqna-train-4345`）
+
+</details>
+
+**1.9.1-235.** Which of the following is a potential setup for cooperative SM (spatial modulation) systems?
+
+- A. Dual-hop SM setup
+- B. Two-way communication with network coding
+- C. Multi-relay and distributed SM setup
+- D. All of the above
+- E. None of the above
+
+<details><summary>看答案</summary>
+
+正解：D　（GSMA `teleqna-train-4404`）
+
+</details>
+
+**1.9.1-236.** What is the purpose of metasurfaces in wireless applications?
+
+- A. To guarantee quality-of-service in harsh propagation environments
+- B. To increase the power consumption of devices
+- C. To decrease the signal processing complexity
+- D. To control the electromagnetic waves in new ways
+
+<details><summary>看答案</summary>
+
+正解：D　（GSMA `teleqna-train-4435`）
+
+</details>
+
+**1.9.1-237.** What is the limitation of equipping each RIS (Reflective Intelligent Surface) with a dedicated transmitter for information transfer?
+
+- A. High cost
+- B. High power consumption
+- C. Low efficiency
+- D. Limited range
+- E. None of the above
+
+<details><summary>看答案</summary>
+
+正解：A　（GSMA `teleqna-train-4443`）
+
+</details>
+
+**1.9.1-238.** What is the concept of beamforming?
+
+- A. Sending signals from a BS to a UE with different amplitudes and phases to direct the signal spatially
+- B. Achieving channel orthogonality in NLoS propagation
+- C. Using multiple antennas at the UE to transmit multiple data streams
+- D. Increasing the number of BS antennas to counteract increased interference
+
+<details><summary>看答案</summary>
+
+正解：A　（GSMA `teleqna-train-4491`）
+
+</details>
+
+**1.9.1-239.** Under what conditions does the near field end and the far field begins for RIS-assisted communications?
+
+- A. When the channel exhibits Rayleigh fading
+- B. When the total channel gain grows linearly with the number of antenna elements
+- C. When the distance between the transmitter/receiver and RIS is comparable to the dimension of RIS
+- D. When the RIS is mounted on the top of a high-mobility vehicle
+- E. When the RIS is configured in the reflecting mode
+
+<details><summary>看答案</summary>
+
+正解：C　（GSMA `teleqna-train-4510`）
+
+</details>
+
+**1.9.1-240.** What advantages do LS-MIMO systems have over small-scale MIMO systems?
+
+- A. Higher reliability
+- B. Higher diversity order
+- C. Higher throughput
+- D. Higher data rate
+
+<details><summary>看答案</summary>
+
+正解：C　（GSMA `teleqna-train-4653`）
+
+</details>
+
+**1.9.1-241.** In the RSMA (Rate-splitting multiple access) transmitter operation, how are the message bits split between the common stream and private streams?
+
+- A. The first few bits are allocated to the common stream and the remaining bits to the private streams.
+- B. The even-numbered bits are allocated to the common stream and the odd-numbered bits to the private streams.
+- C. The bits are randomly allocated between the common stream and private streams.
+- D. The allocation is based on the transmission rates of the common and private streams.
+- E. The allocation is based on the modulation schemes chosen for the common and private streams.
+
+<details><summary>看答案</summary>
+
+正解：D　（GSMA `teleqna-train-4670`）
+
+</details>
+
+**1.9.1-242.** What is the objective of RIS (reconfigurable intelligent surface) configuration encoding?
+
+- A. To enhance the controllable channel by adding a global phase-shift
+- B. To separate the controllable and uncontrollable channels in the received signal
+- C. To maximize the SNR by optimizing the RIS configuration
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-4679`）
+
+</details>
+
+**1.9.1-243.** What is Reconfigurable Intelligent Surface (RIS) in the context of JRCC (joint radar and covert communication) systems?
+
+- A. A technology that modifies the phase of the incident signal to adjust the propagation environment.
+- B. A planar array consisting of a large number of active reflecting elements.
+- C. A hardware component that ensures high communication quality and radar detection ability.
+- D. A technique for embedding data symbols on the radar signals using high complex hardware.
+
+<details><summary>看答案</summary>
+
+正解：A　（GSMA `teleqna-train-4692`）
+
+</details>
+
+**1.9.1-244.** What are the scattering elements of an IOS (intelligent omni-surface) made of?
+
+- A. Multiple metallic patches
+- B. PIN diodes
+- C. Dielectric substrate
+- D. All of the above
+
+<details><summary>看答案</summary>
+
+正解：D　（GSMA `teleqna-train-4697`）
+
+</details>
+
+**1.9.1-245.** What is the purpose of symbol-level precoding in interference exploitation?
+
+- A. To cancel interfering signals
+- B. To minimize the difference between the received and transmitted symbol
+- C. To increase the power of the useful signal
+- D. To suppress interference through 1-bit DACs
+- E. To make all interfering signals constructive to the signal of interest
+
+<details><summary>看答案</summary>
+
+正解：E　（GSMA `teleqna-train-4743`）
+
+</details>
+
+**1.9.1-246.** Which passive Holographic MIMO Surfaces (HMIMOS) operation mode resembles conventional beamforming?
+
+- A. Continuous Holographic MIMO Surfaces (HMIMOS) as a passive reflector
+- B. Discrete Holographic MIMO Surfaces (HMIMOS) as a passive reflector
+- C. Discrete Holographic MIMO Surfaces (HMIMOS) as an active transceiver
+- D. Continuous Holographic MIMO Surfaces (HMIMOS) as an active transceiver
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-4771`）
+
+</details>
+
+**1.9.1-247.** What do metasurfaces transform incident waves into?
+
+- A. Desired reflected and transmitted waves
+- B. Randomly scattered waves
+- C. Uniform plane waves
+- D. Evanescent waves
+- E. Unpolarized waves
+
+<details><summary>看答案</summary>
+
+正解：A　（GSMA `teleqna-train-4796`）
+
+</details>
+
+**1.9.1-248.** What is the key advantage of using BS (base station) cooperation in multi-cell multiuser LS-MIMO systems?
+
+- A. Higher data rate
+- B. Lower complexity
+- C. Improved spectral efficiency
+- D. Reduced interference
+- E. Improved reliability
+
+<details><summary>看答案</summary>
+
+正解：D　（GSMA `teleqna-train-4898`）
+
+</details>
+
+**1.9.1-249.** Why is channel acquisition challenging with RIS (reconfigurable intelligent surfaces)?
+
+- A. RIS elements have mutual coupling
+- B. RIS cannot reflect impinging signals
+- C. RIS has too many transceiver chains
+- D. RIS lacks sensing capabilities
+- E. RIS cannot be real-time reconfigured
+
+<details><summary>看答案</summary>
+
+正解：D　（GSMA `teleqna-train-4915`）
+
+</details>
+
+**1.9.1-250.** Myth 2: Massive MIMO only works in rich-scattering environments
+
+- A. True
+- B. False
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-4946`）
+
+</details>
+
+**1.9.1-251.** Which technology integrates a large number of antenna elements to increase the communication distance?
+
+- A. Reflectarrays
+- B. HyperSurfaces
+- C. Distance-aware physical layer design
+- D. Ultra-Massive MIMO (UM-MIMO) communications
+- E. All of the above
+
+<details><summary>看答案</summary>
+
+正解：D　（GSMA `teleqna-train-4948`）
+
+</details>
+
+**1.9.1-252.** How can the amplitude and phase shift of each element in the IRS (Intelligent reflecting surface) be controlled?
+
+- A. By using variable resistor load
+- B. By using PIN diodes
+- C. By applying biasing voltage
+- D. By adjusting the geometry shape and size of the elements
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-4962`）
+
+</details>
+
+**1.9.1-253.** What are static passive smart skins (SPSSs) in the context of SEE (Smart Electromagnetic Environment)?
+
+- A. Artificial structures used for blind spot mitigation
+- B. Active structures that amplify signal power
+- C. Passive structures that reflect EM waves
+- D. Passive structures that amplify signal power
+- E. Artificial passive structures that manipulate the incident power radiated by base stations
+
+<details><summary>看答案</summary>
+
+正解：E　（GSMA `teleqna-train-4973`）
+
+</details>
+
+**1.9.1-254.** What is the phase discontinuity of a reflecting RIS (Reflective Intelligent Surface) determined by?
+
+- A. Incident beam direction and phase gradient
+- B. Incident beam intensity and polarization
+- C. Wavelength and refractive index
+- D. Distance between the RIS and the source or terminal
+- E. RIS configuration and refractive index of the surrounding medium
+
+<details><summary>看答案</summary>
+
+正解：A　（GSMA `teleqna-train-5000`）
+
+</details>
+
+**1.9.1-255.** What factor results in a higher energy efficiency in massive MIMO systems?
+
+- A. Higher macro BS transmit power
+- B. Lower macro BS transmit power
+- C. Higher number of transmit antennas at the macro BS
+- D. Lower number of transmit antennas at the macro BS
+- E. Higher traffic loads
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-5013`）
+
+</details>
+
+**1.9.1-256.** What is one of the theoretical limits to be understood in RIS (Reflective Intelligent Surface)-aided communication systems?
+
+- A. How many pilots are required to reliably estimate the three channel links.
+- B. How much pilot reduction can be achieved by exploiting additional channel structures.
+- C. The fundamental tradeoff between training overhead and system parameters.
+- D. All of the above
+- E. None of the above
+
+<details><summary>看答案</summary>
+
+正解：D　（GSMA `teleqna-train-5016`）
+
+</details>
+
+**1.9.1-257.** What are the three paradigms that have emerged for increasing system throughput in 5G wireless networks?
+
+- A. Ultra-dense networks (UDNs), Millimeter wave (mmWave) communications, Massive multiple-input multiple-output (M-MIMO)
+- B. Device-to-device (D2D) communications, Long Term Evolution (LTE) in unlicensed spectrum (LTE-U), Ultra-dense networks (UDNs)
+- C. Millimeter wave (mmWave) communications, Massive multiple-input multiple-output (M-MIMO), Device-to-device (D2D) communications
+- D. Long Term Evolution (LTE) in unlicensed spectrum (LTE-U), Ultra-dense networks (UDNs), Millimeter wave (mmWave) communications
+
+<details><summary>看答案</summary>
+
+正解：A　（GSMA `teleqna-train-5028`）
+
+</details>
+
+**1.9.1-258.** How many configurations are possible for each metallic patch in the IOS (intelligent omni-surface)?
+
+- A. N
+- B. 2N
+- C. 2^N
+- D. 2^(2N)
+
+<details><summary>看答案</summary>
+
+正解：C　（GSMA `teleqna-train-5035`）
+
+</details>
+
+**1.9.1-259.** What is the name of an artificial moving particle that exhibits reciprocal magnetoelectric coupling due to its chiral shape?
+
+- A. Wire omega particle
+- B. Omega-Tellegen particle
+- C. Chiral-moving particle
+- D. Ferrite-coated particle
+
+<details><summary>看答案</summary>
+
+正解：C　（GSMA `teleqna-train-5036`）
+
+</details>
+
+**1.9.1-260.** What is the impact of array geometry on Massive MIMO systems?
+
+- A. No impact
+- B. Enhances the performance
+- C. Limits the coverage area
+- D. Increases interference
+- E. Captures the 3D nature of the propagation environment
+
+<details><summary>看答案</summary>
+
+正解：E　（GSMA `teleqna-train-5044`）
+
+</details>
+
+**1.9.1-261.** What is the purpose of active RIS (Reconfigurable Intelligent Surface) elements in Mode 1-based active transmission?
+
+- A. To process baseband signals
+- B. To transmit and amplify incident signals
+- C. To receive and decode signals from vehicles
+- D. To enhance the mobility of vehicles
+- E. To create interference for other vehicles
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-5047`）
+
+</details>
+
+**1.9.1-262.** What technology allows the control of radio waves reflecting on and passing through a RIS? 
+
+- A. D-RoF (Digital-Radio over Fiber)
+- B. Wireless sensing
+- C. Wireless power supply
+- D. A-RoF (Analogue-Radio over Fiber)
+- E. Reconfigurable Intelligent Surface (RIS)
+
+<details><summary>看答案</summary>
+
+正解：E　（GSMA `teleqna-train-5050`）
+
+</details>
+
+**1.9.1-263.** Which matrix determines the network performance in multiuser MIMO?
+
+- A. The collection of UE channels
+- B. The correlation matrix of the UEs' channels
+- C. The correlation matrix of the BS antennas
+- D. The average channel gain
+- E. The number of non-zero eigenvalues
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-5066`）
+
+</details>
+
+**1.9.1-264.** Which of the following techniques is used to provide superior spectral efficiency by multiplexing information signals at different power levels in UAV (Unmanned aerial vehicle) systems?
+
+- A. OFDMA
+- B. NOMA
+- C. CDMA
+- D. SDMA
+- E. FDMA
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-5078`）
+
+</details>
+
+**1.9.1-265.** How can an IOS (intelligent omni-surface) assist in interference cancellation in ultra-dense networks?
+
+- A. By focusing the signals towards specified users on both sides of the surface
+- B. By reducing the interference towards the users located in other cells
+- C. By receiving signals from users located on the same side of the surface
+- D. By not receiving refracted signals on the opposite side of the surface
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-5139`）
+
+</details>
+
+**1.9.1-266.** What is the purpose of multiple antennas in multiuser channels?
+
+- A. To provide diversity to each user
+- B. To allow the base-station to simultaneously transmit or receive data from multiple users
+- C. To increase spatial multiplexing
+- D. All of the above
+
+<details><summary>看答案</summary>
+
+正解：D　（GSMA `teleqna-train-5152`）
+
+</details>
+
+**1.9.1-267.** Do NOMA (Non-orthogonal multiple access) users always have different channel gains?
+
+- A. Channel gains do not affect the performance of NOMA
+- B. Yes, NOMA users always have different channel gains
+- C. NOMA can only be implemented with users having different channel gains
+- D. No, NOMA users can have exactly the same channel gains
+
+<details><summary>看答案</summary>
+
+正解：D　（GSMA `teleqna-train-5168`）
+
+</details>
+
+**1.9.1-268.** What is the purpose of fine-grained control over the reflected EM (Electro-Magnetic) field in quasi-free-space beam manipulation?
+
+- A. To manipulate as many ray paths as possible
+- B. To create constructive interference at a target location
+- C. To efficiently stir the field
+- D. To optimize the EM responses of RISs
+- E. To measure the impact of the RIS on the transmission
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-5174`）
+
+</details>
+
+**1.9.1-269.** What is the advantage of using rate-splitting (RSMA) in MIMO systems with imperfect channel state information (CSI)?
+
+- A. It cancels out all inter-user interference
+- B. It maximizes the achievable data rates
+- C. It utilizes zero-forcing (ZF) precoding techniques
+- D. It reduces the system's degrees of freedom (DoF)
+- E. It manages the treatment of interference as noise and determines the amount to be decoded
+
+<details><summary>看答案</summary>
+
+正解：E　（GSMA `teleqna-train-5235`）
+
+</details>
+
+**1.9.1-270.** What is grant-free non-orthogonal multiple access (NOMA)?
+
+- A. A scheme where multiple users are granted access to the same time/frequency resource
+- B. A scheme where each user is granted exclusive access to a time/frequency resource
+- C. A scheme where different users are granted access to orthogonal time/frequency resources
+- D. A scheme that does not require any grant for access to time/frequency resources
+- E. A scheme that uses non-orthogonal time/frequency resources for grant-based access
+
+<details><summary>看答案</summary>
+
+正解：D　（GSMA `teleqna-train-5241`）
+
+</details>
+
+**1.9.1-271.** Which path loss model is commonly used for IRS-assisted wireless networks?
+
+- A. Free-space path loss model
+- B. Exponential path loss model
+- C. IRS-assisted path loss model
+- D. Shadowing path loss model
+
+<details><summary>看答案</summary>
+
+正解：C　（GSMA `teleqna-train-5284`）
+
+</details>
+
+**1.9.1-272.** What is the impact of spatial correlation on coherent interference?
+
+- A. Spatial correlation has no impact on coherent interference
+- B. Spatial correlation increases coherent interference
+- C. Spatial correlation reduces coherent interference
+- D. Spatial correlation only impacts non-coherent interference
+
+<details><summary>看答案</summary>
+
+正解：C　（GSMA `teleqna-train-5295`）
+
+</details>
+
+**1.9.1-273.** What is the term used to describe the cancellation of inter-user interference in massive MIMO systems?
+
+- A. Effective SISO precoded channel
+- B. Favorable propagation
+- C. Channel hardening
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-5340`）
+
+</details>
+
+**1.9.1-274.** What is the advantage of random pairing as a user paring (UP) algorithm in Single-Input Single-Output (SISO) Non-Orthogonal Multiple Access (NOMA)?
+
+- A. It provides the highest sum rate performance
+- B. It exhibits low computational complexity
+- C. It guarantees user fairness
+- D. It considers the channel gains of the users
+- E. It reduces adjacent channel interferences
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-5402`）
+
+</details>
+
+**1.9.1-275.** What is the major advantage of RISs over AF (amplify and forward) and DF (decode and forward) relays in terms of hardware?
+
+- A. Higher power consumption
+- B. Higher SP capability
+- C. No noise
+- D. More RF chains
+- E. Lower hardware cost
+
+<details><summary>看答案</summary>
+
+正解：E　（GSMA `teleqna-train-5505`）
+
+</details>
+
+**1.9.1-276.** What are the research challenges in RIS (Reflective Intelligent Surface)-aided communication systems?
+
+- A. Channel modelling and channel acquisition
+- B. System design under CSI uncertainty
+- C. Theoretical limits
+- D. All of the above
+- E. None of the above
+
+<details><summary>看答案</summary>
+
+正解：D　（GSMA `teleqna-train-5548`）
+
+</details>
+
+**1.9.1-277.** What is the primary objective of the shielding layer in a discrete Holographic MIMO Surfaces (HMIMOS) ?
+
+- A. To modify the behavior of the meta-material layer
+- B. To achieve a continuous aperture
+- C. To avoid mutual interferences between layers
+- D. To update external wireless entities
+
+<details><summary>看答案</summary>
+
+正解：C　（GSMA `teleqna-train-5607`）
+
+</details>
+
+**1.9.1-278.** What is the impact of phase quantization levels on the radiation pattern of a reflective surface?
+
+- A. Higher quantization levels result in higher sidelobes and lower directivity.
+- B. Higher quantization levels result in lower sidelobes and higher directivity.
+- C. Higher quantization levels have no impact on the radiation pattern.
+- D. Higher quantization levels result in higher sidelobes and higher directivity.
+
+<details><summary>看答案</summary>
+
+正解：A　（GSMA `teleqna-train-5622`）
+
+</details>
+
+**1.9.1-279.** What is the benefit of grouping neighbouring RIS (reconfigurable intelligent surface) elements together?
+
+- A. To increase the number of indexed constellation points
+- B. To reduce correlation of a single channel coefficient
+- C. To improve cost and energy efficiency
+- D. To ease the implementation process
+- E. None of the above
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-5640`）
+
+</details>
+
+**1.9.1-280.** What is the advantage of wave manipulation using metasurfaces?
+
+- A. It allows for efficient energy absorption
+- B. It enables perfect control over the direction of reflected waves
+- C. It enhances the sensitivity of sensors integrated with the metasurface
+- D. It can carry information by spatial modulation
+- E. It simplifies the fabrication process of the metasurface
+
+<details><summary>看答案</summary>
+
+正解：D　（GSMA `teleqna-train-5672`）
+
+</details>
+
+**1.9.1-281.** What is the advantage of NOMA (non-orthogonal multiple access) compared to OMA (orthogonal multiple access) in terms of achievable rates at high SNR (signal-to-noise ratio)?
+
+- A. NOMA achieves higher rates due to the same power allocation for all users.
+- B. OMA achieves higher rates due to the splitting of bandwidth resources among users.
+- C. NOMA achieves higher rates due to power allocation even if the channel gains are unequal.
+- D. OMA achieves higher rates due to treating other user's information as noise.
+- E. NOMA achieves higher rates due to strong co-channel interference.
+
+<details><summary>看答案</summary>
+
+正解：C　（GSMA `teleqna-train-5683`）
+
+</details>
+
+**1.9.1-282.** What are the advantages of optical beamforming?
+
+- A. Fast beam steering
+- B. Immunity to electromagnetic interference
+- C. Large bandwidth
+- D. All of the above
+
+<details><summary>看答案</summary>
+
+正解：D　（GSMA `teleqna-train-5726`）
+
+</details>
+
+**1.9.1-283.** What are the three key technologies proposed for 5G cellular networks?
+
+- A. Massive MIMO, millimeter wave communications, and small cell concept
+- B. Frequency reuse, sectorized BS technologies, and gateways
+- C. LTE and WiFi technologies, microcell BSs, and femtocell BSs
+- D. Densification of macrocell BSs, ultra-dense indoor femtocell BSs, and outdoor distributed antenna systems
+- E. Classical macrocell BSs, ultra-dense indoor femtocell BSs, and outdoor distributed antenna systems
+
+<details><summary>看答案</summary>
+
+正解：A　（GSMA `teleqna-train-5745`）
+
+</details>
+
+**1.9.1-284.** How does the achievable rate of NOMA-SM (non orthogonal multiple access-spatial modulation) compare to that of OMA (orthogonal multiple access)?
+
+- A. The achievable rate of NOMA-SM is the same as that of OMA
+- B. The achievable rate of NOMA-SM is halved compared to that of OMA
+- C. The achievable rate of NOMA-SM is two-times higher than that of OMA
+- D. The achievable rate of NOMA-SM is four-times higher than that of OMA
+
+<details><summary>看答案</summary>
+
+正解：C　（GSMA `teleqna-train-5754`）
+
+</details>
+
+**1.9.1-285.** What is the main advantage of massive MIMO systems?
+
+- A. Improved channel estimation and power allocation
+- B. Significant reduction in hardware complexity
+- C. Increased total BS power consumption
+- D. Higher data rates compared to small-scale deployments
+- E. Better signal transmission with low-resolution DACs
+
+<details><summary>看答案</summary>
+
+正解：D　（GSMA `teleqna-train-5757`）
+
+</details>
+
+**1.9.1-286.** Which is more likely to be implemented with interference alignment, based on the information provided?
+
+- A. Frequency domain systems
+- B. MIMO systems
+- C. Time domain systems
+- D. Spatial domain systems
+- E. Phase domain systems
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-5773`）
+
+</details>
+
+**1.9.1-287.** What are the remarkable properties of massive MIMO that are tailored for URLLC (Ultra-Reliable Low-Latency Communication)?
+
+- A. Low latency links and high coding schemes
+- B. High reliability links and multiple communication interfaces
+- C. Very high SNR links, quasi-deterministic links, and extreme spatial multiplexing capability
+- D. High diversity paths and low redundancy occurrences
+- E. Low spatial multiplexing capability and high retransmission occurrences
+
+<details><summary>看答案</summary>
+
+正解：C　（GSMA `teleqna-train-5800`）
+
+</details>
+
+**1.9.1-288.** What does SIC (successive interference cancellation) stand for in the context of NOMA (non-orthogonal multiple access)?
+
+- A. Signal Interference Calculation
+- B. Summation of Independent Channels
+- C. Simple Interference Control
+- D. Superimposed Interference Cancellation
+- E. Subtraction of Interfering Channels
+
+<details><summary>看答案</summary>
+
+正解：D　（GSMA `teleqna-train-5810`）
+
+</details>
+
+**1.9.1-289.** What are metasurfaces composed of?
+
+- A. Three-dimensional arrays of scattering particles
+- B. Arrays of sub-wavelength scattering particles
+- C. Two-dimensional arrays of scattering particles
+- D. Arrays of nanoscale particles
+- E. Arrays of micron-scale particles
+
+<details><summary>看答案</summary>
+
+正解：C　（GSMA `teleqna-train-5819`）
+
+</details>
+
+**1.9.1-290.** What is the scaling law for the maximum power received at the Rx in RF (radio-frequency) IRSs (intelligent reflecting surfaces)?
+
+- A. Linear scaling law
+- B. Cubic scaling law
+- C. Quadratic scaling law
+- D. Exponential scaling law
+
+<details><summary>看答案</summary>
+
+正解：C　（GSMA `teleqna-train-5834`）
+
+</details>
+
+**1.9.1-291.** What is the main advantage of reconfigurable intelligent surface (RIS) technology?
+
+- A. Increased battery life for devices
+- B. Large path loss attenuation
+- C. Improved spectral efficiency
+- D. Reduced interference from APs
+- E. Low power consumption and low cost
+
+<details><summary>看答案</summary>
+
+正解：E　（GSMA `teleqna-train-5876`）
+
+</details>
+
+**1.9.1-292.** What is the fundamental difference between conventional RIS (reconfigurable intelligent surfaces) and metasurface-coated devices?
+
+- A. Improvement of SNR
+- B. Utilization of energy harvesting techniques
+- C. Microcontroller-based control
+- D. Wideband operation
+- E. Reconfigurability
+
+<details><summary>看答案</summary>
+
+正解：E　（GSMA `teleqna-train-5886`）
+
+</details>
+
+**1.9.1-293.** What is the concept of Massive MIMO?
+
+- A. Utilizing antenna arrays with tens to hundreds of elements to increase spectral efficiency
+- B. Using plasmonic nano-antenna arrays to increase communication distance at mm-wave and THz frequencies
+- C. Enabling ultra-high-speed and long-distance links simultaneously
+- D. Supporting multi-band communication with different frequency bands
+- E. Developing space-time-frequency coding and modulation techniques for performance improvements
+
+<details><summary>看答案</summary>
+
+正解：A　（GSMA `teleqna-train-5906`）
+
+</details>
+
+**1.9.1-294.** What is the potential benefit of multiuser MIMO and distributed antennas?
+
+- A. Increased diversity gain
+- B. Reduced interference
+- C. Extended service coverage
+- D. Mitigated path shadowing and loss
+- E. All of the above
+
+<details><summary>看答案</summary>
+
+正解：E　（GSMA `teleqna-train-5918`）
+
+</details>
+
+**1.9.1-295.** What are the two steps in the CF (Cell-free) mMIMO (massive multiple-input-multiple-output) controlling process?
+
+- A. User categorization and MAP vector determination
+- B. Resource allocation and scheduling
+- C. Signal transmission and reception
+- D. MAC signaling exchange and RLC protocol layer buffering
+- E. Channel estimation and equalization
+
+<details><summary>看答案</summary>
+
+正解：A　（GSMA `teleqna-train-5933`）
+
+</details>
+
+**1.9.1-296.** Which technology can re-engineer electromagnetic waves in 6G?
+
+- A. Millimeter Wave (mmWave)
+- B. Massive MIMO
+- C. Reconfigurable Intelligent Surface (RIS)
+- D. Non-Orthogonal Multiple Access (NOMA)
+- E. Artificial Intelligence (AI)
+
+<details><summary>看答案</summary>
+
+正解：C　（GSMA `teleqna-train-5970`）
+
+</details>
+
+**1.9.1-297.** What are the two phases of a typical cooperative NOMA (non-orthogonal multiple access) transmission scheme?
+
+- A. Direct transmission phase and cooperative transmission phase
+- B. Downlink phase and uplink phase
+- C. Broadcast phase and relay phase
+- D. Initial phase and final phase
+- E. Cooperative phase and non-cooperative phase
+
+<details><summary>看答案</summary>
+
+正解：A　（GSMA `teleqna-train-5995`）
+
+</details>
+
+**1.9.1-298.** Programmable metasurfaces consist of two-dimensional artificial sub-wavelength thin-layer structures with programmable electromagnetic properties. Which of the following statements is true?
+
+- A. Programmable metasurfaces can only be applied in the microwave frequency range.
+- B. Programmable metasurfaces can only be applied in the visible light frequency range.
+- C. Programmable metasurfaces can be potentially applied in a wide range of working frequencies, from microwave to visible light.
+- D. Programmable metasurfaces can be potentially applied only in the microwave and visible light frequency ranges.
+
+<details><summary>看答案</summary>
+
+正解：C　（GSMA `teleqna-train-6041`）
+
+</details>
+
+**1.9.1-299.** What is the relationship between the dimension of eigenspaces and the average correlation of channels for UEs (User Equipments) with very different correlation matrices?
+
+- A. They are positively correlated
+- B. They are negatively correlated
+- C. They are unrelated
+- D. The correlation depends on the XPD
+- E. The correlation depends on the number of antennas
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-6054`）
+
+</details>
+
+**1.9.1-300.** What is the configuration of the RIS (Reconfigurable Intelligent Surface) in the static RIS configuration?
+
+- A. The RIS reflection coefficients are reconfigured N times during one transmission instance
+- B. The RIS reflection coefficients are fixed for the entire transmission
+- C. The RIS configuration can be updated in real time
+- D. Time sharing is carried out among all possible reflection coefficients
+- E. The phases of the RIS elements can be adjusted at a certain resolution
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-6062`）
+
+</details>
+
+**1.9.1-301.** What is SCMA (sparse code multiple access)?
+
+- A. A type of channel model
+- B. A modulation technique
+- C. A multi-user detection algorithm
+- D. A grant-free orthogonal multiple access
+- E. A code-domain NOMA
+
+<details><summary>看答案</summary>
+
+正解：E　（GSMA `teleqna-train-6088`）
+
+</details>
+
+**1.9.1-302.** What is the time-domain structure of grant-free NOMA (non-orthogonal multiple access) scheme?
+
+- A. Time-division multiplexing
+- B. Time-frequency hopping
+- C. Time-domain spreading
+- D. Time-domain interference cancellation
+- E. Time-domain power control
+
+<details><summary>看答案</summary>
+
+正解：C　（GSMA `teleqna-train-6120`）
+
+</details>
+
+**1.9.1-303.** What do reconfigurable intelligent surfaces provide in wireless communication systems?
+
+- A. Low fabrication and operational costs
+- B. High spectral efficiency
+- C. Smart control of the wireless environment
+- D. Massive MIMO systems
+- E. Software reconfigurability
+
+<details><summary>看答案</summary>
+
+正解：C　（GSMA `teleqna-train-6161`）
+
+</details>
+
+**1.9.1-304.** What is the advantage of using metasurfaces in wireless communication networks compared to phased arrays?
+
+- A. Metasurfaces require less power and have a simpler hardware architecture.
+- B. Metasurfaces provide higher directivity and less interference.
+- C. Metasurfaces can be easily reconfigured and have a larger phase range.
+- D. Metasurfaces have a wider coverage area and better link budget.
+
+<details><summary>看答案</summary>
+
+正解：A　（GSMA `teleqna-train-6210`）
+
+</details>
+
+**1.9.1-305.** Which frequency bands are massive MIMO systems essential in?
+
+- A. Centimeter-wave bands
+- B. Millimeter-wave bands
+- C. Both centimeter-wave and millimeter-wave bands
+- D. Microwave bands
+- E. Infrared bands
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-6248`）
+
+</details>
+
+**1.9.1-306.** How does RIS (Reconfigurable intelligent surface) achieve the re-direction of incident signals?
+
+- A. By controlling the bias voltage of the scattering elements.
+- B. By implementing different materials for different spectrum.
+- C. By adjusting the phase shifts of passive reflecting elements.
+- D. By using field-programmable gate array (FPGA) as the micro-controller.
+- E. By perfect absorption and anomalous reflection of incident waves.
+
+<details><summary>看答案</summary>
+
+正解：C　（GSMA `teleqna-train-6284`）
+
+</details>
+
+**1.9.1-307.** What are the advantages of non-orthogonal multiple access (NOMA) techniques?
+
+- A. Improved spectral efficiency
+- B. Increased user connectivity density
+- C. Low transmission latency
+- D. All of the above
+- E. None of the above
+
+<details><summary>看答案</summary>
+
+正解：D　（GSMA `teleqna-train-6286`）
+
+</details>
+
+**1.9.1-308.** What is the main reason for using SIC (successive interference cancellation) in downlink NOMA (Non-orthogonal multiple access)?
+
+- A. To increase decoding complexity
+- B. To maximize achievable rates
+- C. To improve spectral efficiency
+- D. To reduce interference
+
+<details><summary>看答案</summary>
+
+正解：D　（GSMA `teleqna-train-6299`）
+
+</details>
+
+**1.9.1-309.** How is camouflaging generally realized?
+
+- A. By using absorbing material coatings
+- B. Through bio-inspired paintings with dazzling patterns
+- C. Using stealth shaping techniques
+- D. All of the above
+
+<details><summary>看答案</summary>
+
+正解：D　（GSMA `teleqna-train-6353`）
+
+</details>
+
+**1.9.1-310.** What is one approach to reduce the training and feedback overhead in FD MIMO systems with large antenna arrays?
+
+- A. Using non-codebook-based feedback of the average CSI from users.
+- B. Applying non-precoded beamformers to a subset of the antenna array.
+- C. Using aperiodic training schemes.
+- D. Separating the cell into multiple "virtual sectors" using JSDM.
+
+<details><summary>看答案</summary>
+
+正解：C　（GSMA `teleqna-train-6380`）
+
+</details>
+
+**1.9.1-311.** What is a well-accepted benchmark scheme to quantify the performance enhancement by RIS (Reflective Intelligent Surface) elements?
+
+- A. AF relay networks
+- B. MIMO relay networks
+- C. Random phase shifts
+- D. DF relay networks
+
+<details><summary>看答案</summary>
+
+正解：C　（GSMA `teleqna-train-6494`）
+
+</details>
+
+**1.9.1-312.** Which technique can be used to decrease the implementation complexity of the receiver structure in NOMA (non-orthogonal multiple access)?
+
+- A. Multi-user detection
+- B. User-pairing
+- C. Successive interference cancellation
+- D. Orthogonal multiple access
+- E. Low-density spreading codes
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-6500`）
+
+</details>
+
+**1.9.1-313.** When does the RIS (reconfigurable intelligent surface) have the greatest effect on the capacity of the wireless channel?
+
+- A. When there is an uncontrollable channel and a weak direct channel.
+- B. When there is no uncontrollable channel and only a direct channel.
+- C. When there is an uncontrollable channel and a strong direct channel.
+- D. When there is no uncontrollable channel and only a weak direct channel.
+
+<details><summary>看答案</summary>
+
+正解：A　（GSMA `teleqna-train-6512`）
+
+</details>
+
+**1.9.1-314.** What can reconfigurable intelligent surfaces (RISs) do in THz systems?
+
+- A. Increase link directionality
+- B. Enhance spectral efficiency
+- C. Extend the communication range
+- D. Minimize signal reflection losses
+- E. Reduce power consumption
+
+<details><summary>看答案</summary>
+
+正解：C　（GSMA `teleqna-train-6524`）
+
+</details>
+
+**1.9.1-315.** RISs are deployed at the cell boundary in multicell networks to:
+
+- A. Enhance the desired signal power from the serving BS
+- B. Mitigate the interference from neighboring cells
+- C. Both enhance the desired signal power from the serving BS and mitigate interference from neighboring cells
+- D. None of the above
+
+<details><summary>看答案</summary>
+
+正解：C　（GSMA `teleqna-train-6545`）
+
+</details>
+
+**1.9.1-316.** What determines the power allocation in PD-NOMA?
+
+- A. The total power constraint
+- B. The feedback from the BS
+- C. The channel gains of the users
+- D. The number of users in the system
+
+<details><summary>看答案</summary>
+
+正解：C　（GSMA `teleqna-train-6562`）
+
+</details>
+
+**1.9.1-317.** What are the challenges for channel state information (CSI) acquisition in IRS-aided systems?
+
+- A. Estimating the cascaded channel for multiple-antenna receivers
+- B. Dealing with sparsity in the angular domain
+- C. Managing the CSI acquisition overhead
+- D. All of the above
+
+<details><summary>看答案</summary>
+
+正解：D　（GSMA `teleqna-train-6585`）
+
+</details>
+
+**1.9.1-318.** Myth 3: Massive MIMO performance can be achieved by open-loop beamforming techniques
+
+- A. True
+- B. False
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-6625`）
+
+</details>
+
+**1.9.1-319.** What is the difference between network-centric clustering (NCC) and user-centric clustering (UCC) in CF (Cell-free) mMIMO (massive multiple-input-multiple-output) networks?
+
+- A. NCC offers lower interference than UCC.
+- B. NCC serves UEs with the best channel quality, while UCC serves UEs residing in their coverage area.
+- C. NCC does not require control signaling, while UCC requires intensive control signaling.
+- D. NCC serves UEs residing in their coverage area, while UCC serves UEs with the best channel quality.
+- E. UCC offers lower interference than NCC.
+
+<details><summary>看答案</summary>
+
+正解：D　（GSMA `teleqna-train-6702`）
+
+</details>
+
+**1.9.1-320.** What are the three categories into which the initial attempts to solve the CSI (channel state information) acquisition problem in RIS (Reflective Intelligent Surface)-aided systems can be divided?
+
+- A. Active-channel-sensor based CSI acquisition, channel-decomposition based CSI acquisition, and structure-learning based CSI acquisition
+- B. Active-channel-sensor based CSI acquisition, quantum computing based CSI acquisition, and distributed beamforming based CSI acquisition
+- C. Channel-decomposition based CSI acquisition, structure-learning based CSI acquisition, and classical computing based CSI acquisition
+- D. Quantum computing based CSI acquisition, distributed beamforming based CSI acquisition, and classical computing based CSI acquisition
+- E. None of the above
+
+<details><summary>看答案</summary>
+
+正解：A　（GSMA `teleqna-train-6731`）
+
+</details>
+
+**1.9.1-321.** Where are RISs positioned in Mode 2-based passive reflection?
+
+- A. On the road
+- B. On the BS
+- C. On buildings along the road
+- D. Inside vehicles
+- E. On the traffic lights
+
+<details><summary>看答案</summary>
+
+正解：C　（GSMA `teleqna-train-6798`）
+
+</details>
+
+**1.9.1-322.** What is a major challenge in HMIMOS-based communication systems?
+
+- A. Characterizing the physical channels in HMIMOS-based systems
+- B. Analyzing the ultimate capacity gains over a given volume
+- C. Developing new signal processing algorithms and networking schemes
+- D. All of the above
+- E. None of the above
+
+<details><summary>看答案</summary>
+
+正解：D　（GSMA `teleqna-train-6813`）
+
+</details>
+
+**1.9.1-323.** What is a potential application of RISs (Reconfigurable intelligent surfaces) in V2I-assisted autonomous driving systems?
+
+- A. Enhancing the reliability of V2I communications
+- B. Improving traffic efficiency
+- C. Increasing the safety of autonomous vehicles
+- D. All of the above
+- E. None of the above
+
+<details><summary>看答案</summary>
+
+正解：D　（GSMA `teleqna-train-6823`）
+
+</details>
+
+**1.9.1-324.** What is one of the DoFs (Degrees of Freedom) introduced by RISs (Reconfigurable intelligent surfaces)?
+
+- A. Binary relaxation of binary variables
+- B. Maximizing spectral efficiency
+- C. Optimal power allocation
+- D. Dynamic RIS configuration
+- E. Matching theory for association problems
+
+<details><summary>看答案</summary>
+
+正解：D　（GSMA `teleqna-train-6829`）
+
+</details>
+
+**1.9.1-325.** Which technology uses reflectarrays to overcome line-of-sight (LoS) blockage and enhance signal coverage?
+
+- A. Reflectarrays
+- B. HyperSurfaces
+- C. Distance-aware physical layer design
+- D. Ultra-Massive MIMO (UM-MIMO) communications
+- E. All of the above
+
+<details><summary>看答案</summary>
+
+正解：A　（GSMA `teleqna-train-6846`）
+
+</details>
+
+**1.9.1-326.** What is the hardware implementation of Reconfigurable Intelligent Surfaces (RISs)?
+
+- A. A planar array of ultra-thin meta-atoms
+- B. A network of interconnected antennas
+- C. A set of RF transceivers and receivers
+- D. A collection of digital signal processors
+- E. A group of software-defined radios
+
+<details><summary>看答案</summary>
+
+正解：A　（GSMA `teleqna-train-6869`）
+
+</details>
+
+**1.9.1-327.** What is an important consideration in the design of energy-efficient massive MIMO HetNets (heterogenous networks)?
+
+- A. Spatial blanking to reduce interference
+- B. Load balancing between macro and small cell tiers
+- C. Optimal energy management policies
+- D. Cross-layer design techniques
+- E. Reliability concerns with EH capabilities
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-6906`）
+
+</details>
+
+**1.9.1-328.** What is the purpose of the active IRS (Intelligent reflecting surface) architecture?
+
+- A. To compensate for the high path-loss in passive-IRS aided systems
+- B. To reduce the hardware and energy cost of passive IRS
+- C. To amplify the reflected signal with low-cost components
+- D. To acquire the CSI associated with the active IRS
+- E. To achieve superior communication performance
+
+<details><summary>看答案</summary>
+
+正解：C　（GSMA `teleqna-train-7052`）
+
+</details>
+
+**1.9.1-329.** What is the goal of using IRS (intelligent reflecting surface) in Mobile Edge Computing (MEC) systems?
+
+- A. Improving energy efficiency
+- B. Reducing processing delay
+- C. Enhancing communication efficiency
+- D. All of the above
+- E. None of the above
+
+<details><summary>看答案</summary>
+
+正解：D　（GSMA `teleqna-train-7100`）
+
+</details>
+
+**1.9.1-330.** What are the potential use cases of RIS-aided wireless communications?
+
+- A. Improving the signal-to-noise ratio
+- B. Mitigating interference between users
+- C. Limiting signal-leakage to mitigate eavesdropping
+- D. Support for wireless power transfer
+- E. All of the above
+
+<details><summary>看答案</summary>
+
+正解：E　（GSMA `teleqna-train-7118`）
+
+</details>
+
+**1.9.1-331.** In rich scattering environments, how are the rays impacted on a RIS (Reflective Intelligent Surface)?
+
+- A. Rays impact the RIS with gray-scale tunability
+- B. Rays impact the RIS from one well-defined direction
+- C. Rays impact the RIS with reduced complexity
+- D. Rays impact the RIS with minimal mutual coupling
+- E. Rays impact the RIS from all possible directions
+
+<details><summary>看答案</summary>
+
+正解：E　（GSMA `teleqna-train-7127`）
+
+</details>
+
+**1.9.1-332.** What is the purpose of user pairing/grouping in a hybrid MA (multiple access) system for cooperative NOMA (non-orthogonal multiple access)?
+
+- A. To improve reception reliability
+- B. To optimize power allocation
+- C. To evaluate the performance of user pairing
+- D. To investigate stochastic geometry
+- E. To reduce system complexity
+
+<details><summary>看答案</summary>
+
+正解：E　（GSMA `teleqna-train-7187`）
+
+</details>
+
+**1.9.1-333.** What is the main challenge in acquiring channel state information (CSI) between the IRS (Intelligent reflecting surface) and BSs/users?
+
+- A. Channel sparsity
+- B. Channel reciprocity
+- C. Channel estimation delay
+- D. Interference cancellation
+- E. RF chain implementation
+
+<details><summary>看答案</summary>
+
+正解：E　（GSMA `teleqna-train-7220`）
+
+</details>
+
+**1.9.1-334.** What major challenges do massive MIMO systems with a large number of antenna elements pose?
+
+- A. Increased cost and energy consumption
+- B. Deterioration of signal quality
+- C. Decreased spectral efficiency
+- D. Limited coverage range
+- E. Limited data transmission speed
+
+<details><summary>看答案</summary>
+
+正解：A　（GSMA `teleqna-train-7247`）
+
+</details>
+
+**1.9.1-335.** When was the concept of reflectarrays first developed?
+
+- A. 1960s
+- B. 1970s
+- C. 1980s
+- D. 1990s
+- E. 2000s
+
+<details><summary>看答案</summary>
+
+正解：A　（GSMA `teleqna-train-7262`）
+
+</details>
+
+**1.9.1-336.** Which RIS-aided multiple access technology allows multiple users to transmit their information via RISs (reconfigurable intelligent surfaces) in non-overlapping domain frequency channels?
+
+- A. RIS-aided time division multiple access (TDMA)
+- B. RIS-aided frequency division multiple access (FDMA)
+- C. RIS-aided spatial division multiple access (SDMA)
+- D. RIS-aided carrier sensing multiple access (CSMA)
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-7319`）
+
+</details>
+
+**1.9.1-337.** What is the terminology for the multiple access scheme achieved by RS in the SISO (single-input single-output) MAC (media access control)?
+
+- A. Rate-division multiple access (RDMA)
+- B. Rate-splitting multiple access (RSMA)
+- C. Rate-multiplexing multiple access (RMMA)
+- D. Rate-sharing multiple access (RSMA)
+- E. Rate-selection multiple access (RSMA)
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-7342`）
+
+</details>
+
+**1.9.1-338.** What is the purpose of the predictor antennas in the predictor antenna concept system?
+
+- A. To improve the vehicular penetration loss
+- B. To reduce the frequency division duplex overhead
+- C. To increase the processing time at the access point
+- D. To predict the channel for the receive antennas
+- E. To estimate the uplink channel
+
+<details><summary>看答案</summary>
+
+正解：D　（GSMA `teleqna-train-7344`）
+
+</details>
+
+**1.9.1-339.** What is the purpose of calibration in Massive MIMO?
+
+- A. To exploit the channel reciprocity in practice.
+- B. To increase the array gain of the base station.
+- C. To reduce interference between different terminals.
+- D. To estimate channel responses on the uplink.
+- E. To mitigate hardware mismatches in the uplink and downlink.
+
+<details><summary>看答案</summary>
+
+正解：E　（GSMA `teleqna-train-7362`）
+
+</details>
+
+**1.9.1-340.** What is a potential application of an IRS (intelligent reflecting surface) with anomalous reflection?
+
+- A. In wireless communication systems
+- B. In imaging and holography
+- C. In cancer detection
+- D. In optical computing
+- E. In beam shaping and steering
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-7427`）
+
+</details>
+
+**1.9.1-341.** What can reconfigure the impedance of the elements in an RIS (reconfigurable intelligent surface)?
+
+- A. Amplifiers
+- B. Programmable controllers
+- C. Switches
+- D. Colored squares
+- E. External stimuli
+
+<details><summary>看答案</summary>
+
+正解：E　（GSMA `teleqna-train-7459`）
+
+</details>
+
+**1.9.1-342.** What is the main advantage of using a reconfigurable metasurface?
+
+- A. It allows for more efficient energy absorption
+- B. It enables perfect control over the phase of reflected waves
+- C. It enhances the sensitivity of sensors integrated with the metasurface
+- D. It reduces the computational demand for EM simulation
+- E. It simplifies the fabrication process of the metasurface
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-7460`）
+
+</details>
+
+**1.9.1-343.** How does NOMA (Non-orthogonal multiple access) differ from conventional OFDMA (orthogonal frequency division multiple access) technique?
+
+- A. NOMA uses orthogonal spectrum for multiple users
+- B. NOMA allows multiple users to share the same frequency band
+- C. NOMA applies SIC technique at the receivers
+- D. NOMA cannot be combined with MIMO
+- E. NOMA is only used in macrocell networks
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-7498`）
+
+</details>
+
+**1.9.1-344.** What is one of the key enabling technologies in 5G networks that allows for extensive beamforming and spatial multiplexing?
+
+- A. Sleep modes
+- B. Channel state information
+- C. Machine learning
+- D. Ultra-lean design
+- E. Massive multiple-input multiple-output
+
+<details><summary>看答案</summary>
+
+正解：E　（GSMA `teleqna-train-7522`）
+
+</details>
+
+**1.9.1-345.** What is the advantage of wave-based analog computing using metasurfaces?
+
+- A. It simplifies the fabrication process of the metasurface
+- B. It allows for precise control over the phase of reflected waves
+- C. It enhances the sensitivity of sensors integrated with the metasurface
+- D. It reduces the computational demand for EM simulation
+- E. It enables higher energy efficiency compared to digital signal processing
+
+<details><summary>看答案</summary>
+
+正解：E　（GSMA `teleqna-train-7535`）
+
+</details>
+
+**1.9.1-346.** What is the role of SIC (successive interference cancelation) in NOMA (Non-orthogonal multiple access)?
+
+- A. To reduce co-channel interference
+- B. To increase computational complexity
+- C. To optimize network resources
+- D. To maximize spectral efficiency
+- E. None of the above
+
+<details><summary>看答案</summary>
+
+正解：A　（GSMA `teleqna-train-7544`）
+
+</details>
+
+**1.9.1-347.** What is the main motivation for incorporating massive Multiple-Input Multiple-Output (MIMO) technology in 5G and 6G wireless communications?
+
+- A. To provide higher peak data rates for IoT devices
+- B. To enable communication between massive numbers of IoT devices
+- C. To achieve higher spectral efficiency with simple signal processing algorithms
+- D. To reduce fabrication cost and power consumption of wireless devices
+- E. To overcome the limitations of sub-6 GHz bands for wireless communications
+
+<details><summary>看答案</summary>
+
+正解：C　（GSMA `teleqna-train-7548`）
+
+</details>
+
+**1.9.1-348.** What is the main role of Massive MIMO in heterogeneous networks?
+
+- A. To ensure coverage over large areas
+- B. To serve fast-moving UEs
+- C. To reduce intra-tier interference
+- D. To provide wireless backhaul to SBSs
+- E. None of the above
+
+<details><summary>看答案</summary>
+
+正解：C　（GSMA `teleqna-train-7551`）
+
+</details>
+
+**1.9.1-349.** RISs provide additional degrees of freedom to further improve the system performance by:
+
+- A. Enhancing the signal power from the direct paths
+- B. Mitigating multiuser interference
+- C. Both enhancing the signal power from the direct paths and mitigating multiuser interference
+- D. None of the above
+
+<details><summary>看答案</summary>
+
+正解：C　（GSMA `teleqna-train-7573`）
+
+</details>
+
+**1.9.1-350.** What is the role of metasurfaces in transceiver hardware architectures for 6G?
+
+- A. To increase the number of RF chains
+- B. To amplify the frequency band
+- C. To control various parameters of EM waves
+- D. To reduce energy consumption
+
+<details><summary>看答案</summary>
+
+正解：C　（GSMA `teleqna-train-7594`）
+
+</details>
+
+**1.9.1-351.** What challenging issues do passive metasurface coats address?
+
+- A. Energy Efficiency (EE)
+- B. Energy Harvesting (EH)
+- C. Physical Layer Security (PLS)
+- D. All of the above
+- E. None of the above
+
+<details><summary>看答案</summary>
+
+正解：D　（GSMA `teleqna-train-7687`）
+
+</details>
+
+**1.9.1-352.** What does CF mMIMO (massive multiple-input-multiple-output) stand for?
+
+- A. Cellular-Free MIMO
+- B. Centralized-Free MIMO
+- C. Cell-Free Massive MIMO
+- D. Centralized-Free Massive MIMO
+- E. Control-Free MIMO
+
+<details><summary>看答案</summary>
+
+正解：C　（GSMA `teleqna-train-7694`）
+
+</details>
+
+**1.9.1-353.** Which multiple access technique allows users to access the channel simultaneously using the same frequency and time resources, with different power levels?
+
+- A. Radio Access Network Slicing (RAN slicing)
+- B. Rate-Splitting Multiple Access (RSMA)
+- C. Reconfigurable Intelligent Surfaces (RIS)
+- D. Software-Defined Networking (SDN)
+- E. Non-Orthogonal Multiple Access (NOMA)
+
+<details><summary>看答案</summary>
+
+正解：E　（GSMA `teleqna-train-7701`）
+
+</details>
+
+**1.9.1-354.** What does Massive MIMO stand for?
+
+- A. Massive Multiple Input, Multiple Output
+- B. Massive Modulation and Multiplexing
+- C. Meaningful Mobile Input, Multiple Output
+- D. Matured Mobile Internet and Multimedia Optimization
+- E. Not mentioned in the document
+
+<details><summary>看答案</summary>
+
+正解：A　（GSMA `teleqna-train-7717`）
+
+</details>
+
+**1.9.1-355.** What are the challenges of employing cooperative reconfigurable intelligent surfaces?
+
+- A. Complex cooperation and accurate channel state information acquisition
+- B. Scalability and coherent processing
+- C. Data-driven methods and accurate channel state information acquisition
+- D. Scalability and complex cooperation
+- E. Coherent processing and data-driven methods
+
+<details><summary>看答案</summary>
+
+正解：A　（GSMA `teleqna-train-7756`）
+
+</details>
+
+**1.9.1-356.** What is a challenge of implementing mmWave massive MIMO?
+
+- A. Limited form factor
+- B. Complex transceiver
+- C. Channel reciprocity
+- D. High path loss
+- E. Limited bandwidth
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-7787`）
+
+</details>
+
+**1.9.1-357.** What are the benefits of NOMA (Non-orthogonal multiple access)?
+
+- A. Higher spectral efficiency
+- B. Increased access network capacity
+- C. Smart reuse of network resources
+- D. All of the above
+- E. None of the above
+
+<details><summary>看答案</summary>
+
+正解：D　（GSMA `teleqna-train-7813`）
+
+</details>
+
+**1.9.1-358.** Why is implementing densely deployed massive MIMO systems challenging?
+
+- A. Because of their high fabrication cost
+- B. Because of their increased power consumption
+- C. Because of their constrained physical size and shape
+- D. Because of deployment limitations
+- E. All of the above
+
+<details><summary>看答案</summary>
+
+正解：E　（GSMA `teleqna-train-7825`）
+
+</details>
+
+**1.9.1-359.** What benefits can be achieved by using LS-MIMO systems?
+
+- A. Higher error rate
+- B. Higher spectral efficiency
+- C. Lower data rate
+- D. Lower diversity order
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-7861`）
+
+</details>
+
+**1.9.1-360.** What is the main advantage of 3D beamforming over 2D beamforming?
+
+- A. Better interference mitigation capability
+- B. Higher spectral efficiency
+- C. Lower hardware complexity
+- D. More refined angle resolutions in both azimuth and elevation dimensions
+- E. Ability to focus signals towards intended directions
+
+<details><summary>看答案</summary>
+
+正解：D　（GSMA `teleqna-train-7931`）
+
+</details>
+
+**1.9.1-361.** What is the main advantage of modeling large intelligent surfaces as a continuous array of an infinite number of infinitesimal antennas?
+
+- A. It allows for easy implementation of mutual coupling among the metasurface elements.
+- B. It enables communication using point-defined antennas.
+- C. It abstracts from the specific implementation of the metasurface.
+- D. It simplifies the description of the wireless channel path-loss.
+
+<details><summary>看答案</summary>
+
+正解：C　（GSMA `teleqna-train-7941`）
+
+</details>
+
+**1.9.1-362.** Metamaterial sheets, or metasurfaces, are different from bulk metamaterials because:
+
+- A. They are made of subwavelength atomic units.
+- B. They have a subwavelength thickness.
+- C. They have a volumetric entity.
+- D. They have effective permeabilities and permittivities.
+- E. They are described by effective boundary conditions.
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-7961`）
+
+</details>
+
+**1.9.1-363.** For Huygens metasurfaces to be passive and lossless, it is desirable for the elements implementing the required polarizability distributions to have:
+
+- A. Purely real values
+- B. Purely imaginary values
+- C. Nonvanishing real parts
+- D. vanishing real parts
+- E. Constant polarizability densities
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-7988`）
+
+</details>
+
+**1.9.1-364.** What is the purpose of using IRS (intelligent reflecting surface) in wireless networks?
+
+- A. To enhance path loss between transmitters and receivers
+- B. To improve the coverage or outage probability
+- C. To increase the bit error probability
+- D. To reduce the ergodic capacity
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-7991`）
+
+</details>
+
+**1.9.1-365.** What is the main advantage of a full MIMO scenario with an artificial noise jamming multi-antenna helper?
+
+- A. Optimized power allocation
+- B. Lower complexity
+- C. Decreased secrecy outage probability
+- D. Improved BER performance
+- E. Increased secrecy capacity
+
+<details><summary>看答案</summary>
+
+正解：E　（GSMA `teleqna-train-8015`）
+
+</details>
+
+**1.9.1-366.** What is one of the key benefits of cell-free mMIMO (massive MIMO)?
+
+- A. Boundary effects
+- B. Macro-diversity gains
+- C. Large number of antennas
+- D. Central processing units (CPUs)
+- E. Complex signal processing (SP)
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-8024`）
+
+</details>
+
+**1.9.1-367.** What is the advantage of using static passive smart skins (SPSSs) in large-scale scenarios?
+
+- A. Low fabrication and installation costs
+- B. Low power consumption
+- C. No running costs after installation
+- D. Fast deployment
+- E. All of the above
+
+<details><summary>看答案</summary>
+
+正解：E　（GSMA `teleqna-train-8052`）
+
+</details>
+
+**1.9.1-368.** What do the elements in an RIS (reconfigurable intelligent surface) consist of?
+
+- A. Colored squares
+- B. Passive circuits
+- C. Switches
+- D. Controllers
+- E. Amplifiers
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-8062`）
+
+</details>
+
+**1.9.1-369.** How can the response of a hybrid RIS (Reconfigurable intelligent surface) element be split into reflection and refraction?
+
+- A. By adjusting the frequency
+- B. By adjusting the amplitude
+- C. By adjusting the wavelength
+- D. By adjusting the phase shift
+- E. By adjusting the polarization
+
+<details><summary>看答案</summary>
+
+正解：D　（GSMA `teleqna-train-8068`）
+
+</details>
+
+## 1.9.2 非地面網路：UAV、衛星（257 題）
+
+**1.9.2-1.** What frequency band is traditionally used for satellite communications?
+
+- A. Ku-band
+- B. C-band
+- C. L-band
+- D. Ka-band
+- E. Q/V-band
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-43`）
+
+</details>
+
+**1.9.2-2.** Which type of antenna is generally better suited for AG (air to ground) communications due to the high maneuverability of UAVs?
+
+- A. Horn antennas
+- B. Directional antennas
+- C. Multi-directional antennas
+- D. Sectorial antennas
+- E. Omni-directional antennas
+
+<details><summary>看答案</summary>
+
+正解：E　（GSMA `teleqna-train-166`）
+
+</details>
+
+**1.9.2-3.** What is the backhaul connection in ABS placement?
+
+- A. A connection between ABSs and ground terminals
+- B. A connection between ABSs and the terrestrial infrastructure
+- C. A direct connection between ABSs and other UAVs
+- D. A connection between GTs and the terrestrial infrastructure
+- E. A connection between ABSs and the power source
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-394`）
+
+</details>
+
+**1.9.2-4.** What is the purpose of the NTN (Non-Terrestrial Network) GWs (Gateways)?
+
+- A. To connect NTN terminals to NTN platforms
+- B. To generate fixed or moving beams
+- C. To provide inter-satellite links
+- D. To extend NR-Uu timers
+
+<details><summary>看答案</summary>
+
+正解：A　（GSMA `teleqna-train-769`）
+
+</details>
+
+**1.9.2-5.** Which satellite access network type has the lowest end-to-end latency requirement in a 5G system? [3GPP Release 17]
+
+- A. GEO based satellite access
+- B. MEO based satellite access
+- C. LEO based satellite access
+- D. All have the same end-to-end latency requirement
+
+<details><summary>看答案</summary>
+
+正解：C　（GSMA `teleqna-train-942`）
+
+</details>
+
+**1.9.2-6.** Which part of a High Altitude Platform Station represents the ground elements of the communication system?
+
+- A. Communications gateway
+- B. Control station
+- C. Flight control subsystem
+- D. Energy management subsystem
+- E. Communications payload subsystem
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-1347`）
+
+</details>
+
+**1.9.2-7.** What does NR-enabled NTN (Non-Terrestrial Network) access refer to?
+
+- A. The NTN access scenario depicted in Figure 1
+- B. NTN Gateways with extended timers to cope with propagation delays
+- C. NTN terminals operating in Ka-band or S-band
+- D. NTN architecture that minimizes the need for new interfaces and protocols in NG-RAN
+
+<details><summary>看答案</summary>
+
+正解：D　（GSMA `teleqna-train-1374`）
+
+</details>
+
+**1.9.2-8.** What is the key foundation of topology and networking in FANETs?
+
+- A. Neighbor discovery
+- B. Routing
+- C. Resource allocation
+- D. Link establishment and maintenance
+- E. Network architecture
+
+<details><summary>看答案</summary>
+
+正解：A　（GSMA `teleqna-train-1375`）
+
+</details>
+
+**1.9.2-9.** What advantage does tUAV (tethered UAV) have in terms of backhaul communication compared to uUAVs (untethered UAVs)?
+
+- A. tUAVs have a wireless backhaul link with higher capacity compared to uUAVs.
+- B. tUAVs have more resource blocks for serving mobile users compared to uUAVs.
+- C. tUAVs have a virtual tether that ensures strong and reliable backhaul link.
+- D. tUAVs have a wired connection to the GS with higher capacity compared to uUAVs.
+- E. None of the above.
+
+<details><summary>看答案</summary>
+
+正解：D　（GSMA `teleqna-train-1416`）
+
+</details>
+
+**1.9.2-10.** What is the main difference between AANETs (Aircraft Ad-hoc Networks) and FANETs (Flying it ad hoc Networks) in terms of altitude?
+
+- A. AANETs fly at higher altitudes than FANETs
+- B. FANETs fly at higher altitudes than AANETs
+- C. AANETs and FANETs fly at the same altitudes
+- D. AANETs fly at lower altitudes than FANETs
+- E. None of the above
+
+<details><summary>看答案</summary>
+
+正解：A　（GSMA `teleqna-train-1457`）
+
+</details>
+
+**1.9.2-11.** What is one of the main differences in the design considerations of antennas between AANETs (Aircraft Ad-hoc Networks) and FANETs (Flying it ad hoc Networks)?
+
+- A. Antenna type and structure for FANETs is of grave concern
+- B. No antennas are used in AANETs
+- C. Both AANETs and FANETs use the same type of antennas
+- D. No design considerations are needed for antennas in FANETs
+- E. Antennas in AANETs are smaller than in FANETs
+
+<details><summary>看答案</summary>
+
+正解：A　（GSMA `teleqna-train-1913`）
+
+</details>
+
+**1.9.2-12.** In which scenario are Ground Stations typically deployed?
+
+- A. Airport area
+- B. Populated area
+- C. Unpopulated area
+- D. All of the above
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-2025`）
+
+</details>
+
+**1.9.2-13.** What is the purpose of a gateway in non-terrestrial networks?
+
+- A. To connect terrestrial terminals to aerial/space stations
+- B. To provide inter-satellite connectivity
+- C. To maintain service continuity in satellite constellations
+- D. To repeat signals from the feeder link to the service link
+- E. To connect the non-terrestrial access network to the core network
+
+<details><summary>看答案</summary>
+
+正解：E　（GSMA `teleqna-train-2447`）
+
+</details>
+
+**1.9.2-14.** What advantage does a High Altitude Platform Station (HAPS) system have over low Earth Orbit (LEO) satellites in terms of coverage gaps?
+
+- A. HAPS systems can provide more reliable coverage in rural and remote areas.
+- B. HAPS systems can cross over continents within several minutes.
+- C. HAPS systems have a lower round-trip delay.
+- D. HAPS systems have a smaller footprint with a large surface volume.
+
+<details><summary>看答案</summary>
+
+正解：A　（GSMA `teleqna-train-2580`）
+
+</details>
+
+**1.9.2-15.** What is one of the lead determinants of a satellite's operational life?
+
+- A. Solar power.
+- B. High-altitude platform station systems.
+- C. Fuel cell capacity.
+- D. Reconfigurable intelligent surfaces.
+- E. Energy management.
+
+<details><summary>看答案</summary>
+
+正解：C　（GSMA `teleqna-train-2641`）
+
+</details>
+
+**1.9.2-16.** Which band is the most popular for telemetry and telecommand in satellite communication?
+
+- A. Ku-band
+- B. X-band
+- C. UHF
+- D. S-band
+- E. L-band
+
+<details><summary>看答案</summary>
+
+正解：D　（GSMA `teleqna-train-2681`）
+
+</details>
+
+**1.9.2-17.** What are the advantages of integrating satellite networks into IoT (Internet of things) networks?
+
+- A. Lower transmit power and reduced energy consumption
+- B. Extended and complemented cellular coverage
+- C. Global and three-dimensional connectivity
+- D. Assistance in disaster scenarios
+- E. All of the above
+
+<details><summary>看答案</summary>
+
+正解：E　（GSMA `teleqna-train-2871`）
+
+</details>
+
+**1.9.2-18.** What are the three different geographical scenarios of Aeronautical Ad-hoc Networks?
+
+- A. Airport, suburb, rural
+- B. City, town, village
+- C. Airport area, populated area, unpopulated area
+- D. Urban, suburban, rural
+
+<details><summary>看答案</summary>
+
+正解：C　（GSMA `teleqna-train-2904`）
+
+</details>
+
+**1.9.2-19.** Which architecture of UAV-enabled MEC (mobile edge computing) networks is suitable for areas without terrestrial MEC networks?
+
+- A. UAV as a user
+- B. UAV as a server
+- C. UAV as a relay
+- D. UAV as a flying base station
+- E. UAV as a drone network
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-2956`）
+
+</details>
+
+**1.9.2-20.** What is the main advantage of using LEO (Low Earth Orbit) satellites in direct-to-satellite IoT (Internet of Things) (DtS-IoT)?
+
+- A. Large coverage area
+- B. High-speed flying IoT gateway
+- C. Predictable orbital trajectory
+- D. Low-cost antennas on IoT devices
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-3192`）
+
+</details>
+
+**1.9.2-21.** What is a key component in onboard processing?
+
+- A. High-Speed Analog ADC and Baseband/IF Conversion
+- B. Processing Block
+- C. Switching
+- D. All of the above
+
+<details><summary>看答案</summary>
+
+正解：D　（GSMA `teleqna-train-3198`）
+
+</details>
+
+**1.9.2-22.** What are the four candidate communication technologies for UAVs (Unmanned aerial vehicles)?
+
+- A. Direct link, satellite, ad hoc network, and cellular network.
+- B. WiFi, Bluetooth, satellite, and cellular network.
+- C. Fiber optic, satellite, ad hoc network, and cellular network.
+- D. WiFi, Bluetooth, ad hoc network, and cellular network.
+- E. Fiber optic, satellite, WiFi, and cellular network.
+
+<details><summary>看答案</summary>
+
+正解：A　（GSMA `teleqna-train-3312`）
+
+</details>
+
+**1.9.2-23.** What is the purpose of the Space-Air-Ground Integrated Network (SAGIN)?
+
+- A. To provide high-speed broadband infrastructure in rural areas
+- B. To provide stable Internet service in stadiums and concerts
+- C. To provide improved and flexible end-to-end services by integrating satellite, air, and ground networks
+- D. To utilize multi-cast and broadcast techniques to alleviate network traffic burden
+- E. To analyze and optimize the performance of SAGIN using deep learning techniques
+
+<details><summary>看答案</summary>
+
+正解：C　（GSMA `teleqna-train-3435`）
+
+</details>
+
+**1.9.2-24.** Which company has deployed the most satellites for its Starlink constellation?
+
+- A. Amazon
+- B. OneWeb
+- C. Teledesic
+- D. TeleSAT
+- E. SpaceX
+
+<details><summary>看答案</summary>
+
+正解：E　（GSMA `teleqna-train-3713`）
+
+</details>
+
+**1.9.2-25.** What types of drones can be used to construct multi-tier drone-cell networks?
+
+- A. Only macro-drones
+- B. Only small-drones
+- C. Only femto-drones
+- D. Only pico-drones
+- E. Several drone types
+
+<details><summary>看答案</summary>
+
+正解：E　（GSMA `teleqna-train-3796`）
+
+</details>
+
+**1.9.2-26.** What type of channel condition is characterized in the AG (air to ground) channel?
+
+- A. Air-Air (AA) channel
+- B. Ground-Ground (GG) channel
+- C. Ground-Air (GA) channel
+- D. Air-Ground (AG) channel
+
+<details><summary>看答案</summary>
+
+正解：D　（GSMA `teleqna-train-4063`）
+
+</details>
+
+**1.9.2-27.** What are the advantages of LEO (Low earth orbit) satellite systems compared to GEO (geosynchronous equatorial orbit) satellite systems?
+
+- A. LEO satellite systems have larger capacity density and lower latency.
+- B. LEO satellite systems have blind areas at the poles.
+- C. LEO satellite systems have lower construction and maintenance costs.
+- D. LEO satellite systems have frequency priority according to ITU.
+- E. LEO satellite systems have longer communication delay than GEO satellite systems.
+
+<details><summary>看答案</summary>
+
+正解：A　（GSMA `teleqna-train-4241`）
+
+</details>
+
+**1.9.2-28.** What is the definition of Non-Terrestrial Networks?
+
+- A. The main lobe of the radiation pattern of an antenna array.
+- B. The direction where the maximum EIRP is found.
+- C. Networks, or segments of networks, using an airborne or space-borne vehicle to embark a transmission equipment relay node or SAN.
+- D. The beam which has a half-power contour that is essentially elliptical.
+- E. The direction equal to the geometric centre of the half-power contour of the beam.
+
+<details><summary>看答案</summary>
+
+正解：C　（GSMA `teleqna-train-4287`）
+
+</details>
+
+**1.9.2-29.** What is one challenge in the fronthaul and access communication links for aerial base stations?
+
+- A. Designing reduced number of protocol stack layers
+- B. Ensuring sufficient bandwidth and reliability
+- C. Allowing fronthaul and access communications on the same frequencies
+- D. All of the above
+
+<details><summary>看答案</summary>
+
+正解：D　（GSMA `teleqna-train-4289`）
+
+</details>
+
+**1.9.2-30.** Which layer of objects is constituted by the aircraft in an Aeronautical Ad-hoc Network?
+
+- A. Top layer
+- B. Middle layer
+- C. Bottom layer
+- D. Invisible layer
+- E. Undetermined layer
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-4376`）
+
+</details>
+
+**1.9.2-31.** What is the advantage of using non-terrestrial backhauling?
+
+- A. Cost savings
+- B. Lower power consumption
+- C. Higher data rates
+- D. Reduced interference
+- E. Availability in remote locations
+
+<details><summary>看答案</summary>
+
+正解：E　（GSMA `teleqna-train-4840`）
+
+</details>
+
+頁次：[1](1-9-gsma-1.md)　**2**　[3](1-9-gsma-3.md)　[4](1-9-gsma-4.md)　[5](1-9-gsma-5.md)　[6](1-9-gsma-6.md)　[7](1-9-gsma-7.md)　[8](1-9-gsma-8.md)
