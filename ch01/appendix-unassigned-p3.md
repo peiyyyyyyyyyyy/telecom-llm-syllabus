@@ -1,8 +1,335 @@
-# 附錄　第 1 章未歸類的 GSMA 訓練題（1094 題）（第 3／6 頁）
+# 附錄　未歸類的 GSMA 訓練題（第 1、2、4 章歸類時都找不到小節）（1195 題）（第 3／6 頁）
 
 頁次：[1](appendix-unassigned.md)　[2](appendix-unassigned-p2.md)　**3**　[4](appendix-unassigned-p4.md)　[5](appendix-unassigned-p5.md)　[6](appendix-unassigned-p6.md)
 
-### 量子（21 題）（續）
+### 快取（29 題）（續）
+
+**11.** What is the purpose of edge caching?
+
+- A. To reduce content access delay
+- B. To facilitate duplicate transmission from remote servers
+- C. To increase backhaul usage
+- D. To exploit the synergy of caching and computing
+
+<details><summary>看答案</summary>
+
+正解：A　（GSMA `teleqna-train-1386`）
+
+</details>
+
+**12.** What is the advantage of using Fountain coding in the caching system?
+
+- A. It allows for faster file transmission
+- B. It simplifies the file assignment problem
+- C. It enables a distributed caching system
+- D. It reduces the need for backhaul communication
+- E. It increases the storage capacity of helper nodes
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-1493`）
+
+</details>
+
+**13.** What is the major benefit of content caching in wireless applications?
+
+- A. Minimizing content downloading time
+- B. Alleviating traffic loads on the core networks
+- C. Mitigating over-the-air wireless traffics
+- D. Reducing the total amount of wireless traffics
+- E. All of the above
+
+<details><summary>看答案</summary>
+
+正解：E　（GSMA `teleqna-train-1656`）
+
+</details>
+
+**14.** What makes the caching system in cellular wireless networks different from caching in Content Delivery Networks (CDNs)?
+
+- A. Limited spectrum resources and dynamic wireless channels
+- B. User mobility
+- C. Smaller storage capacity of RAN caches compared to CDN caches
+- D. Cache placement strategy
+- E. All of the above
+
+<details><summary>看答案</summary>
+
+正解：E　（GSMA `teleqna-train-1758`）
+
+</details>
+
+**15.** What is the tradeoff in caching at BSs in wireless networks?
+
+- A. Cache size and backhaul capacity
+- B. Cache-hit probability and energy consumption
+- C. User mobility and inter-cell interference
+- D. Network throughput and QoE
+- E. Caching policy and channel fading
+
+<details><summary>看答案</summary>
+
+正解：A　（GSMA `teleqna-train-2058`）
+
+</details>
+
+**16.** What are the fundamental tradeoffs and design aspects of caching at the wireless edge?
+
+- A. Reduced latency and energy consumption
+- B. Improved spectral efficiency and energy efficiency
+- C. Traffic characteristics and QoE metrics
+- D. Spatial resources and backhaul capacity
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-2087`）
+
+</details>
+
+**17.** What is the main advantage of pre-caching desired information to selected users?
+
+- A. Optimizing reactive networks
+- B. Reducing the peak load of cellular networks
+- C. Predicting future events in an intelligent manner
+- D. Exploiting users' social relationships and ties
+- E. Analyzing user's traffic and caching content locally
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-2664`）
+
+</details>
+
+**18.** How can caching popular contents at wireless hot spots benefit the system?
+
+- A. Reduce data traffic
+- B. Improve signal processing speed
+- C. Increase network coverage
+- D. Enhance data security
+- E. All of the above
+
+<details><summary>看答案</summary>
+
+正解：A　（GSMA `teleqna-train-2676`）
+
+</details>
+
+**19.** What is the optimum caching strategy for static user terminals?
+
+- A. No caching
+- B. Cache popular files
+- C. Cache all files
+- D. Cache files at random
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-3339`）
+
+</details>
+
+**20.** What is the advantage of collaborative caching?
+
+- A. Higher cache hit rate
+- B. Lower backhaul usage
+- C. Reduced content access delay
+- D. Duplicate transmission from remote servers
+
+<details><summary>看答案</summary>
+
+正解：A　（GSMA `teleqna-train-6608`）
+
+</details>
+
+**21.** What is the benefit of content caching in cellular networks?
+
+- A. Reduction in backhaul usage
+- B. Improved user Quality of Experience (QoE)
+- C. Capital Expenditure (CAPEX) reduction
+- D. Operational Expenditure (OPEX) reduction
+- E. All of the above
+
+<details><summary>看答案</summary>
+
+正解：E　（GSMA `teleqna-train-7004`）
+
+</details>
+
+**22.** Which of the following caching schemes delivers the requested content by directly accessing it from the local storage without any delay?
+
+- A. Local caching
+- B. D2D caching
+- C. SBS caching
+- D. MBS caching
+- E. None of the above
+
+<details><summary>看答案</summary>
+
+正解：A　（GSMA `teleqna-train-7161`）
+
+</details>
+
+**23.** Which of the following caching schemes delivers the requested content by accessing it from the local SBS (Small-cell Base Station) if it is available?
+
+- A. Local caching
+- B. D2D caching
+- C. SBS caching
+- D. MBS caching
+- E. None of the above
+
+<details><summary>看答案</summary>
+
+正解：C　（GSMA `teleqna-train-7318`）
+
+</details>
+
+**24.** What is the benefit of caching at BSs in wireless networks?
+
+- A. Improving energy efficiency
+- B. Increasing cache-hit probability
+- C. Reducing backhaul congestion
+- D. Enhancing network capacity
+- E. Decreasing interference
+
+<details><summary>看答案</summary>
+
+正解：C　（GSMA `teleqna-train-7350`）
+
+</details>
+
+**25.** What is the main principle of the proposed architecture for femtocaching in helper nodes?
+
+- A. To increase the backhaul link traffic
+- B. To replace femto base stations with high storage capacity small base stations
+- C. To reduce the storage capacity of helper nodes
+- D. To increase the backhaul communication in a heterogeneous network
+- E. To replace caching helpers with macro base stations
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-7420`）
+
+</details>
+
+**26.** What are the advantages of caching popular contents locally at the wireless edge?
+
+- A. Reduced latency and energy consumption
+- B. Higher backhaul capacity
+- C. Improved spectral efficiency
+- D. Enhanced spatial resources
+
+<details><summary>看答案</summary>
+
+正解：A　（GSMA `teleqna-train-7449`）
+
+</details>
+
+**27.** What is the goal of integrated satellite-terrestrial architectures for caching?
+
+- A. To reduce the latency of the satellite systems
+- B. To maximize the system throughput or sum-rate
+- C. To minimize the required resources without interfering with the normal operation of the network
+- D. To minimize the total transmission time
+
+<details><summary>看答案</summary>
+
+正解：C　（GSMA `teleqna-train-7736`）
+
+</details>
+
+**28.** What is the main benefit of caching popular content at edge routers?
+
+- A. Optimized routing decisions
+- B. Improved network security
+- C. Increased network capacity
+- D. Reduced latency
+
+<details><summary>看答案</summary>
+
+正解：D　（GSMA `teleqna-train-7860`）
+
+</details>
+
+**29.** What is an important aspect of efficient caching strategies?
+
+- A. Accurate prediction of demands
+- B. Intelligent routing decisions
+- C. Optimal network dimensioning
+- D. QoS metrics
+
+<details><summary>看答案</summary>
+
+正解：A　（GSMA `teleqna-train-7908`）
+
+</details>
+
+### 量子（26 題）
+
+**1.** What is the purpose of trusted-repeater networks in the Quantum internet (Qinternet)?
+
+- A. To provide end-to-end security
+- B. To extend the network to large areas
+- C. To directly link nodes
+- D. To increase the distance between directly connected nodes
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-791`）
+
+</details>
+
+**2.** What is the role of quantum repeaters in the distribution of entanglement?
+
+- A. To generate entangled pairs
+- B. To measure and copy entangled qubits
+- C. To transmit entangled qubits without physical transfer
+- D. To overcome decoherence in entangled pairs
+- E. To extend the distribution of entanglement over longer distances
+
+<details><summary>看答案</summary>
+
+正解：E　（GSMA `teleqna-train-912`）
+
+</details>
+
+**3.** What does a quantum network consist of?
+
+- A. Quantum computers and quantum sensors
+- B. Nodes, routers, repeaters, and quantum channels
+- C. Fiber and free-space optical channels
+- D. Quantum secure direct communication (QSDC) and quantum key distribution (QKD)
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-4354`）
+
+</details>
+
+**4.** What will be used in quantum networks for extending their scale once practical quantum memories become available?
+
+- A. Quantum key distribution (QKD)
+- B. Quantum teleportation
+- C. Quantum repeaters
+- D. Quantum computers
+
+<details><summary>看答案</summary>
+
+正解：C　（GSMA `teleqna-train-6788`）
+
+</details>
+
+**5.** What does connectivity refer to in the context of quantum computers?
+
+- A. The ability to simulate quantum systems on classical computers
+- B. The choice and performance of the underlying gate set
+- C. The overall circuit performance
+- D. The connection between qubits
+- E. The ability of compilers to translate circuits to the underlying hardware
+
+<details><summary>看答案</summary>
+
+正解：D　（GSMA `teleqna-train-7226`）
+
+</details>
 
 **6.** What are some of the challenges in designing the Quantum Internet protocol stack?
 
@@ -219,7 +546,74 @@
 
 </details>
 
-### 認知無線電與頻譜共享（15 題）
+**22.** In the context of quantum computing, what is a model circuit?
+
+- A. A circuit designed to simulate quantum systems on classical computers
+- B. A circuit with randomly selected gates acting on random pairs of qubits
+- C. A circuit that optimizes for the components of the software stack
+- D. A circuit that measures the computational power of classical computers
+- E. A circuit that evaluates the performance of compilers
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-5998`）
+
+</details>
+
+**23.** What prohibits the copying of an unknown quantum state?
+
+- A. Normalization condition
+- B. Measurement postulate
+- C. No-cloning theorem
+- D. Decoherence of quantum states
+
+<details><summary>看答案</summary>
+
+正解：C　（GSMA `teleqna-train-5419`）
+
+</details>
+
+**24.** What is the parameter shift rule used for in quantum neural network training?
+
+- A. Training QNNs with backpropagation
+- B. Accelerating the training process in QNNs
+- C. Calculating the derivative of a quantum state
+- D. Optimizing the parameters of classical NNs in QNNs
+
+<details><summary>看答案</summary>
+
+正解：C　（GSMA `teleqna-train-5427`）
+
+</details>
+
+**25.** What is approximate compilation in the context of quantum computing?
+
+- A. Approximating qubit lifetimes for simulation
+- B. Approximating a circuit to reduce gate count
+- C. Approximating a computation to save resources
+- D. Approximating gate error rates for noise mitigation
+- E. Approximating quantum algorithms for optimization
+
+<details><summary>看答案</summary>
+
+正解：C　（GSMA `teleqna-train-5648`）
+
+</details>
+
+**26.** What is the superposition principle in quantum mechanics?
+
+- A. Multiple qubits can exist in only one state at a time
+- B. A qubit can exist in only one state at a time
+- C. A qubit can exist in multiple states simultaneously
+- D. Multiple qubits can exist in multiple states simultaneously
+
+<details><summary>看答案</summary>
+
+正解：C　（GSMA `teleqna-train-5665`）
+
+</details>
+
+### 認知無線電與頻譜共享（16 題）
 
 **1.** What are the three operation paradigms in CRNs (Cognitive radio networks)?
 
@@ -429,7 +823,20 @@
 
 </details>
 
-### 其他（663 題）
+**16.** Which countries do not mandate LBT (listen-before-talk) for LTE-U operation?
+
+- A. US and China
+- B. UK and Germany
+- C. France and Japan
+- D. Canada and Australia
+
+<details><summary>看答案</summary>
+
+正解：A　（GSMA `teleqna-train-1387`）
+
+</details>
+
+### 其他（734 題）
 
 **1.** Which RFID (radio-frequency identification) systems allow tags to communicate with each other directly?
 
@@ -2326,419 +2733,6 @@
 <details><summary>看答案</summary>
 
 正解：B　（GSMA `teleqna-train-180`）
-
-</details>
-
-**140.** What does DTS stand for?
-
-- A. Personal Identification Number
-- B. Multimedia Telephony
-- C. Multimedia Priority Service
-- D. Over-The-Top
-- E. Data Transport Service
-
-<details><summary>看答案</summary>
-
-正解：E　（GSMA `teleqna-train-263`）
-
-</details>
-
-**141.** Which technology has the highest peak transmission rate?
-
-- A. GSM-R
-- B. TETRA
-- C. DMR
-- D. LTE-V2X
-- E. NR-V2X
-
-<details><summary>看答案</summary>
-
-正解：E　（GSMA `teleqna-train-305`）
-
-</details>
-
-**142.** What is the expected trend of wireless voice and data communications growth according to Cooper's law?
-
-- A. Stagnant growth
-- B. Linear growth
-- C. Exponential growth
-- D. Declining growth
-- E. Undecided growth
-
-<details><summary>看答案</summary>
-
-正解：C　（GSMA `teleqna-train-417`）
-
-</details>
-
-**143.** What information does the Front-End component of the PAIaaS (PAI-as-a-Service) framework allow end-users to specify?
-
-- A. Data
-- B. Models
-- C. Permissions
-- D. All of the above
-- E. None of the above
-
-<details><summary>看答案</summary>
-
-正解：D　（GSMA `teleqna-train-445`）
-
-</details>
-
-**144.** What are some of the emerging applications that demand high-throughput and low-latency?
-
-- A. Email and web browsing
-- B. Social media and online shopping
-- C. Augmented and virtual reality, gaming, remote office, and cloud computing
-- D. Streaming music and video conferencing
-- E. File sharing and online banking
-
-<details><summary>看答案</summary>
-
-正解：C　（GSMA `teleqna-train-470`）
-
-</details>
-
-**145.** What type of data do self-driving related devices like cameras and LiDAR (light detection and ranging) produce?
-
-- A. Vehicle and environmental information
-- B. Navigation information
-- C. Real-time road vision
-- D. High-definition videos
-
-<details><summary>看答案</summary>
-
-正解：D　（GSMA `teleqna-train-506`）
-
-</details>
-
-**146.** What is the objective of soft decoding of a pixel patch in the soft decoding of JPEG encoded images?
-
-- A. To enhance the resolution of the pixel patch
-- B. To correct the blur in the pixel patch
-- C. To remove the noise from the pixel patch
-- D. To improve the visual quality of the pixel patch
-- E. To preserve the color of the pixel patch
-
-<details><summary>看答案</summary>
-
-正解：D　（GSMA `teleqna-train-563`）
-
-</details>
-
-**147.** Which sense represents the primary focus in immersive virtual reality (IVR) technology?
-
-- A. Smell
-- B. Hearing
-- C. Touch
-- D. Taste
-- E. Vision
-
-<details><summary>看答案</summary>
-
-正解：E　（GSMA `teleqna-train-572`）
-
-</details>
-
-**148.** What is the term used to refer to signaling molecules that can be switched by a stimulus at the modulation site and have a final state that cannot be changed again?
-
-- A. Molecule Type Integration on Carrier Particles
-- B. Reversibly Switchable SMs
-- C. Meta Molecules
-- D. One-Time Switchable SMs
-- E. Polymersomes
-
-<details><summary>看答案</summary>
-
-正解：D　（GSMA `teleqna-train-653`）
-
-</details>
-
-**149.** What information is used to reconstruct the missing part of an image in the hetero-modal image reconstruction?
-
-- A. Only the image with occlusion
-- B. Only the sequence of received power of RF signals
-- C. Both the image with occlusion and the sequence of received power of RF signals
-- D. The ground truth image
-- E. None of the above
-
-<details><summary>看答案</summary>
-
-正解：C　（GSMA `teleqna-train-795`）
-
-</details>
-
-**150.** What are the horizontal and vertical components of an SLA (Service Level Agreement)?
-
-- A. Agreements between providers and customers from the same layer and from different layers, respectively
-- B. Agreements between providers and customers from different layers and from the same layer, respectively
-- C. Agreements between providers and customers within the same organization
-- D. Agreements between providers and customers across different organizations
-
-<details><summary>看答案</summary>
-
-正解：A　（GSMA `teleqna-train-842`）
-
-</details>
-
-**151.** Which technology allows people to use their senses to interact with virtual entities in remote or virtually created environments?
-
-- A. Internet of Drones (IoD)
-- B. Tele-operation (T)
-- C. Automotive (A)
-- D. Immersive Virtual Reality (IVR)
-- E. Haptic IC (HIC)
-
-<details><summary>看答案</summary>
-
-正解：D　（GSMA `teleqna-train-868`）
-
-</details>
-
-**152.** Who are the end-users in the context of telecommunications?
-
-- A. Service providers
-- B. Manufacturers of telecommunication equipment
-- C. Regulatory agencies
-- D. Individuals or organizations who consume or utilize telecommunication services
-
-<details><summary>看答案</summary>
-
-正解：D　（GSMA `teleqna-train-954`）
-
-</details>
-
-**153.** What is the purpose of smart metering?
-
-- A. To increase the utilization of resources
-- B. To facilitate efficient consumption of resources
-- C. To decrease the global economy
-- D. To prioritize sustainable growth
-- E. To study privacy issues
-
-<details><summary>看答案</summary>
-
-正解：B　（GSMA `teleqna-train-1017`）
-
-</details>
-
-**154.** What is the goal of automatic sound event detection (SED) methods?
-
-- A. To recognize the aesthetic qualities of a sound
-- B. To recognize speech and music in an audio signal
-- C. To recognize the sources of sounds in everyday life
-- D. To recognize linguistic or paralinguistic information in speech
-- E. To recognize the temporal instances of different sounds in an audio signal
-
-<details><summary>看答案</summary>
-
-正解：E　（GSMA `teleqna-train-1021`）
-
-</details>
-
-**155.** What type of biosensors are suitable for MC-Rx?
-
-- A. Electrical
-- B. Optical
-- C. Chemical
-- D. All of the above
-
-<details><summary>看答案</summary>
-
-正解：D　（GSMA `teleqna-train-1027`）
-
-</details>
-
-**156.** What are some examples of applications that can be provided based on mobile users' individual and social features?
-
-- A. Resource reservation in handoff using location prediction
-- B. Context-aware personal wireless service adaptation
-- C. Mobility-based routing and paging control
-- D. All of the above
-- E. None of the above
-
-<details><summary>看答案</summary>
-
-正解：D　（GSMA `teleqna-train-1070`）
-
-</details>
-
-**157.** Which of the following is not a category of underwater environmental monitoring applications?
-
-- A. Monitoring of underwater exploration
-- B. Monitoring of underwater habitat
-- C. Monitoring of water quality
-- D. Monitoring of marine life
-- E. Monitoring of atmospheric conditions
-
-<details><summary>看答案</summary>
-
-正解：E　（GSMA `teleqna-train-1222`）
-
-</details>
-
-**158.** Which application is expected to trigger the early adoption of AR/VR in 5G networks?
-
-- A. Streaming and multimedia services
-- B. Pervasive connectivity
-- C. Industry 4.0 and Robotics
-- D. Unmanned mobility
-- E. eHealth
-
-<details><summary>看答案</summary>
-
-正解：A　（GSMA `teleqna-train-1253`）
-
-</details>
-
-**159.** What are the immersive technologies that enable the Metaverse?
-
-- A. 5G and HCI
-- B. AR, VR, and MR
-- C. OpenSimulator and Second Life
-- D. 3D modeling and AI
-- E. NFTs and blockchain
-
-<details><summary>看答案</summary>
-
-正解：B　（GSMA `teleqna-train-1466`）
-
-</details>
-
-**160.** What is the provision of services? [3GPP Release 18]
-
-- A. Providing IP connectivity through the PS CN domain
-- B. Making a service available to an individual subscriber after arrangements have been made
-- C. Removing an available service from all subscribers
-- D. Removing an available service from individual subscribers
-- E. Making a service available to all subscribers without prior arrangements
-
-<details><summary>看答案</summary>
-
-正解：E　（GSMA `teleqna-train-1697`）
-
-</details>
-
-**161.** What is a Value Added Service Provider?
-
-- A. A provider that offers basic telecommunications services without any additional charges.
-- B. A provider that offers services other than basic telecommunications service for which additional charges may be incurred.
-- C. A provider that offers virtual home environment services.
-- D. A provider that offers virtual machine services.
-- E. A provider that offers variable bit rate services.
-
-<details><summary>看答案</summary>
-
-正解：B　（GSMA `teleqna-train-1722`）
-
-</details>
-
-**162.** What does saliency refer to in the context of video pre-processing?
-
-- A. The region of an image that attracts the most attention
-- B. The region of an image that has the highest visual quality
-- C. The region of an image that has the least motion
-- D. The region of an image that is the most complex
-
-<details><summary>看答案</summary>
-
-正解：A　（GSMA `teleqna-train-1729`）
-
-</details>
-
-**163.** What can a Target UE subscription profile specify? [3GPP Release 17]
-
-- A. Location Quality of Service (QoS) requirements
-- B. Location information in a standard format
-- C. Location service components and bearers
-- D. External user entities connected to the LCS Client
-- E. Positioning parameters for the Positioning function
-
-<details><summary>看答案</summary>
-
-正解：A　（GSMA `teleqna-train-1754`）
-
-</details>
-
-**164.** What is the difference between a recommender system and an intelligent transportation system?
-
-- A. Recommender systems focus on predicting user preferences, while intelligent transportation systems focus on managing traffic flow
-- B. Recommender systems focus on managing traffic flow, while intelligent transportation systems focus on predicting user preferences
-- C. There is no difference between the two systems
-
-<details><summary>看答案</summary>
-
-正解：A　（GSMA `teleqna-train-1840`）
-
-</details>
-
-**165.** What are connected road infrastructure services used for?
-
-- A. Monitoring vehicle locations and vehicle/driver status
-- B. Anonymized data and sensor integration
-- C. Physical traffic guidance systems and parking management
-- D. High-accuracy 3D positioning
-- E. Continuous status updates
-
-<details><summary>看答案</summary>
-
-正解：C　（GSMA `teleqna-train-1888`）
-
-</details>
-
-**166.** What is the goal of a content-centric wireless network design?
-
-- A. Maximizing wireless infrastructure expansions
-- B. Minimizing mobile traffic explosion
-- C. Maximizing content delivery capacity with a fixed amount of wireless resources
-- D. Optimizing content creation and distribution in the IP-based network
-- E. Exploring network diversity for content delivery
-
-<details><summary>看答案</summary>
-
-正解：C　（GSMA `teleqna-train-1903`）
-
-</details>
-
-**167.** What is the purpose of the MARCOM feature? [3GPP Release 16]
-
-- A. To correct inconsistencies and clarify ambiguities
-- B. To enhance the performance of LTE in high-speed scenarios
-- C. To specify UE RRM requirements and demodulation requirements for high-speed train scenarios
-- D. To enable maritime communication services to be supported over 3GPP systems
-- E. To support the specific communication needs of railways
-
-<details><summary>看答案</summary>
-
-正解：D　（GSMA `teleqna-train-1995`）
-
-</details>
-
-**168.** What is the key challenge in dimensioning the spectrum for ultra-reliable low-latency communication services?
-
-- A. Meeting reliability and latency requirements
-- B. Allocating additional antennas
-- C. Increasing the amount of available spectrum
-- D. Enhancing base stations
-- E. Improving network densification
-
-<details><summary>看答案</summary>
-
-正解：A　（GSMA `teleqna-train-2052`）
-
-</details>
-
-**169.** What is the definition of Pilot Identity?
-
-- A. The process that identifies that a ProSe-enabled UE is in proximity of another
-- B. A data stream that is transmitted on one physical channel in each cell of the active set
-- C. The maximum bit rate offered to the user for a given time period
-- D. A service specific public address used for initial contact
-- E. The difference between the maximum and the minimum total transmit output power
-
-<details><summary>看答案</summary>
-
-正解：D　（GSMA `teleqna-train-2131`）
 
 </details>
 

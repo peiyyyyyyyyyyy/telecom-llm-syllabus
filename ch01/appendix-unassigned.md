@@ -1,22 +1,22 @@
-# 附錄　第 1 章未歸類的 GSMA 訓練題（1094 題）（第 1／6 頁）
+# 附錄　未歸類的 GSMA 訓練題（第 1、2、4 章歸類時都找不到小節）（1195 題）（第 1／6 頁）
 
 這些題目屬於 GSMA 知識科，但課綱目前沒有對應的小節。分組只依題目關鍵字粗分，僅供之後擴充課綱參考；訓練時照常使用。
 
 | 分組 | 題數 |
 |---|---|
-| 側鏈、D2D 與車聯網 | 129 |
-| 物聯網 | 95 |
-| 定位 | 55 |
+| 側鏈、D2D 與車聯網 | 136 |
+| 物聯網 | 96 |
+| 定位 | 70 |
 | 網路資料分析（NWDAF 等） | 48 |
-| 區塊鏈 | 39 |
+| 區塊鏈 | 40 |
 | 快取 | 29 |
-| 量子 | 21 |
-| 認知無線電與頻譜共享 | 15 |
-| 其他 | 663 |
+| 量子 | 26 |
+| 認知無線電與頻譜共享 | 16 |
+| 其他 | 734 |
 
 頁次：**1**　[2](appendix-unassigned-p2.md)　[3](appendix-unassigned-p3.md)　[4](appendix-unassigned-p4.md)　[5](appendix-unassigned-p5.md)　[6](appendix-unassigned-p6.md)
 
-### 側鏈、D2D 與車聯網（129 題）
+### 側鏈、D2D 與車聯網（136 題）
 
 **1.** Which deployment scenario is focused on information sharing between autonomous vehicles and infrastructure?
 
@@ -1779,7 +1779,105 @@
 
 </details>
 
-### 物聯網（95 題）
+**130.** Which organization is jointly framing the concepts of operations for UAV (Unmanned Aerial Vehicle) traffic management in the USA?
+
+- A. 3GPP and ITU
+- B. ICNIRP and IEEE
+- C. ICNIRP and FAA
+- D. FCC and EC
+- E. FAA and NASA
+
+<details><summary>看答案</summary>
+
+正解：E　（GSMA `teleqna-train-950`）
+
+</details>
+
+**131.** What are the main criteria considered when developing UAV (Unmanned Aerial Vehicle) regulations?
+
+- A. Applicability, operational limitations, administrative procedures, technical requirements, and implementation of ethical constraints.
+- B. UAV type, spectrum, altitude, and speed of UAVs.
+- C. Maximum altitude, minimum distance to people, and minimum distance to airport.
+- D. UAV capabilities, their flying altitudes, and altitude restrictions for LAP-drones.
+- E. Privacy, public safety, security, and collision avoidance.
+
+<details><summary>看答案</summary>
+
+正解：A　（GSMA `teleqna-train-1122`）
+
+</details>
+
+**132.** What are the different levels of automation levels specified in 3GPP Rel. 16 for IoV (Internet-of-Vehicle)?
+
+- A. Level 0 to Level 3
+- B. Level 0 to Level 5
+- C. Level 1 to Level 4
+- D. Level 2 to Level 5
+- E. Level 3 to Level 5
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-4296`）
+
+</details>
+
+**133.** What was the first internationally recognized aviation regulation related to the operation of UAVs (Unmanned Aerial Vehicles)?
+
+- A. Chicago Convention
+- B. Privacy Act 1988
+- C. ICAO regulations
+- D. ECC 268 report
+- E. US Privacy Act of 1974
+
+<details><summary>看答案</summary>
+
+正解：A　（GSMA `teleqna-train-4477`）
+
+</details>
+
+**134.** Which regulatory bodies currently restrict UAVs (Unmanned aerial vehicles) below a certain take-off weight to operate at heights below 120m?
+
+- A. UNICEF and WHO
+- B. FAA and EASA
+- C. NASA and ESA
+- D. NATO and ICAO
+- E. WTO and IMF
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-7096`）
+
+</details>
+
+**135.** How can the V2X Application Server address be determined for V2X communication over LTE-Uu? [3GPP Release 14]
+
+- A. By configuring V2X Application Server information
+- B. By using TCP transport
+- C. By using downlink multicast and non-GBR bearer
+- D. By using the UDP/IP transport
+- E. By using the V3 interface
+
+<details><summary>看答案</summary>
+
+正解：A　（GSMA `teleqna-train-3263`）
+
+</details>
+
+**136.** What are the requirements for relay UE selection for Evolved ProSe Remote UE access? [3GPP Release 17]
+
+- A. Selection based on the subscription owner of the Evolved ProSe UE-to-Network Relay
+- B. Selection based on the QoS achievable by the Evolved ProSe UE-to-Network Relay
+- C. Selection based on the power consumption required by the Evolved ProSe UE-to-Network Relay and Evolved ProSe Remote UE
+- D. Selection based on the access technology used by the Evolved ProSe UE-to-Network Relay
+- E. All of the above
+
+<details><summary>看答案</summary>
+
+正解：E　（GSMA `teleqna-train-654`）
+
+</details>
+
+### 物聯網（96 題）
 
 **1.** Which type of communication is the only feasible solution for a large majority of IoT (Internet of Things) applications and services?
 
@@ -2660,102 +2758,6 @@
 <details><summary>看答案</summary>
 
 正解：D　（GSMA `teleqna-train-3570`）
-
-</details>
-
-**65.** Why is dynamic composition important in IoT (Internet of Things) solutions?
-
-- A. To facilitate continuity and track user movements
-- B. To enable real-time query processing
-- C. To add extensions and configurations when necessary
-- D. To evaluate and improve IoT solutions in a social and user point of view
-- E. To support distributed processing and communication
-
-<details><summary>看答案</summary>
-
-正解：C　（GSMA `teleqna-train-6080`）
-
-</details>
-
-**66.** What is the typical data rate of LPWANs (Low-Power Wide Area Networks)?
-
-- A. 250 Kbit/s
-- B. 1-2 Mbit/s
-- C. 10-100 Mbit/s
-- D. 1-10 Gbit/s
-
-<details><summary>看答案</summary>
-
-正解：A　（GSMA `teleqna-train-200`）
-
-</details>
-
-**67.** What is the definition of the Internet of Things (IoT)?
-
-- A. An infrastructure of the information society that connects equipment/devices (things) to the Internet and to one another.
-- B. A research area that focuses on underwater technologies.
-- C. A concept that connects devices in urban areas to the Internet and to one another.
-- D. A field of study that uses big data analytics to analyze machine intelligence.
-- E. A technology that allows for better interaction with our living environment.
-
-<details><summary>看答案</summary>
-
-正解：A　（GSMA `teleqna-train-353`）
-
-</details>
-
-**68.** In a LoRaWAN network, what determines the off-period duration for each device?
-
-- A. The maximum duty-cycle
-- B. The channel bandwidth
-- C. The packet transmission time
-- D. The Time On Air
-- E. The Spread Factor
-
-<details><summary>看答案</summary>
-
-正解：D　（GSMA `teleqna-train-1239`）
-
-</details>
-
-**69.** Which company developed LoRa?
-
-- A. Semtech
-- B. Cycleo
-- C. French
-- D. IP
-- E. Ethernet
-
-<details><summary>看答案</summary>
-
-正解：B　（GSMA `teleqna-train-1245`）
-
-</details>
-
-**70.** What is the purpose of MetricMap in wireless sensor networks?
-
-- A. To estimate the dependability metric of a sensor network
-- B. To detect anomalous behaviors in a sensor network
-- C. To estimate the link quality between sensor nodes
-- D. To classify the behavior of animals in a sensor network
-- E. To synchronize the clocks of sensor nodes
-
-<details><summary>看答案</summary>
-
-正解：C　（GSMA `teleqna-train-2726`）
-
-</details>
-
-**71.** What is the typical sensitivity of an LPWAN (Low-Power Wide Area Network) receiver?
-
-- A. -125 dBm
-- B. -90 dBm
-- C. -150 dBm
-- D. -180 dBm
-
-<details><summary>看答案</summary>
-
-正解：C　（GSMA `teleqna-train-3871`）
 
 </details>
 

@@ -1,8 +1,420 @@
-# 附錄　第 1 章未歸類的 GSMA 訓練題（1094 題）（第 5／6 頁）
+# 附錄　未歸類的 GSMA 訓練題（第 1、2、4 章歸類時都找不到小節）（1195 題）（第 5／6 頁）
 
 頁次：[1](appendix-unassigned.md)　[2](appendix-unassigned-p2.md)　[3](appendix-unassigned-p3.md)　[4](appendix-unassigned-p4.md)　**5**　[6](appendix-unassigned-p6.md)
 
-### 其他（663 題）（續）
+### 其他（734 題）（續）
+
+**340.** What are the three subclasses of differential privacy implementation in transportation systems?
+
+- A. Railways freight networks, vehicular networks, and automotive manufacturer data
+- B. ITSs communication, EV auction and charging protection, and privacy of intrusion detection systems
+- C. Vehicular Networks, Privacy of Intrusion Detection Systems, and EV Auction and Charging Protection
+- D. EV auction and charging protection, protection of intrusion detection systems of vehicular networks, and privacy of automotive manufacturer data
+- E. Railways freight networks, Vehicular Networks, and Privacy of Intrusion Detection Systems
+
+<details><summary>看答案</summary>
+
+正解：A　（GSMA `teleqna-train-5779`）
+
+</details>
+
+**341.** What is the main objective of the Byzantine Generals problem?
+
+- A. To achieve consensus in a distributed system despite the presence of faulty or malicious nodes
+- B. To achieve optimal control in a centralised control system
+- C. To achieve coordinated decision-making in a network of actors
+- D. To achieve efficient transmission in a one-to-many communication system
+- E. To achieve secure communication in a many-to-many transmission system
+
+<details><summary>看答案</summary>
+
+正解：A　（GSMA `teleqna-train-5781`）
+
+</details>
+
+**342.** What is the safety factor (SFL) for persons permitted in restricted environments? [IEEE C95.1]
+
+- A. 0
+- B. 0
+- C. 31
+- D. 0
+- E. 943
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-5836`）
+
+</details>
+
+**343.** What is the most serious injury to the skin resulting from exposures to electromagnetic energy above 6 GHz? [IEEE C95.1]
+
+- A. Thermal pain
+- B. Erythema ab igne
+- C. Blisters
+- D. Burns
+- E. Damage to synaptic activity
+
+<details><summary>看答案</summary>
+
+正解：D　（GSMA `teleqna-train-5902`）
+
+</details>
+
+**344.** Under what conditions can target UEs making an emergency call be positioned? [3GPP Release 17]
+
+- A. Only if the privacy attribute value allows positioning
+- B. Only if there is no privacy attribute value set
+- C. Always
+- D. Never
+
+<details><summary>看答案</summary>
+
+正解：C　（GSMA `teleqna-train-5982`）
+
+</details>
+
+**345.** What is the term for the combination of exposure time with elevated temperature that results in tissue injuries? [IEEE C95.1]
+
+- A. Critical thermal maximum
+- B. Etiology
+- C. Metabolic acidosis
+- D. Hyperkalemia
+
+<details><summary>看答案</summary>
+
+正解：A　（GSMA `teleqna-train-6033`）
+
+</details>
+
+**346.** What is the purpose of data obfuscation in smart metering?
+
+- A. To encrypt metering data
+- B. To combine metering data of multiple customers
+- C. To hide appliance signatures by adding noise to the metered data
+- D. To anonymize consumer information
+
+<details><summary>看答案</summary>
+
+正解：C　（GSMA `teleqna-train-6105`）
+
+</details>
+
+**347.** What are the short-term reactions to be avoided at frequencies between 0 Hz and 5 MHz? [IEEE C95.1]
+
+- A. Skin reddening
+- B. Muscle excitation
+- C. Cardiac excitation
+- D. Excitation of neurons
+- E. Aversive or painful stimulation
+
+<details><summary>看答案</summary>
+
+正解：E　（GSMA `teleqna-train-6183`）
+
+</details>
+
+**348.** Which of the following is a requirement for ensuring security in ranging services? [3GPP Release 17]
+
+- A. Ensuring the use of Ranging is only permitted in network coverage under the full control of the operator.
+- B. Ensuring that user privacy is not violated during ranging.
+- C. Supporting mechanisms for a UE to discover other UEs supporting ranging.
+- D. Supporting mechanisms for a UE to assist another UE in performing ranging.
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-6252`）
+
+</details>
+
+**349.** What is the purpose of the identity registry and association services offered by deController?
+
+- A. To determine and update the routing table for the whole network
+- B. To authenticate the application
+- C. To establish a logical tunnel between users
+- D. To perform NEAT for traffic steering
+- E. To manage identity and address bindings
+
+<details><summary>看答案</summary>
+
+正解：E　（GSMA `teleqna-train-6313`）
+
+</details>
+
+**350.** What are the challenges in developing smart-health systems?
+
+- A. Efficient storage and processing of real-time data
+- B. Addressing security and privacy requirements
+- C. Enabling remote accessibility of medical data
+- D. All of the above
+
+<details><summary>看答案</summary>
+
+正解：D　（GSMA `teleqna-train-6439`）
+
+</details>
+
+**351.** How are ultrasonic sensors jammed in the jamming attack?
+
+- A. By emitting ultrasound waves around the resonant frequency of the sensors
+- B. By injecting echoes with a shorter cycle time than the sensor's
+- C. By generating ultrasonic signals approximately around the sensor's resonant frequency
+- D. By emitting spoofed signals once every few milliseconds
+- E. By adjusting the signal adaptively based on concurrent sensor signals
+
+<details><summary>看答案</summary>
+
+正解：C　（GSMA `teleqna-train-6595`）
+
+</details>
+
+**352.** How can issues of confidentiality and integrity be mitigated in Participatory Sensing?
+
+- A. Using state-of-the-art techniques
+- B. Using SSL/TLS
+- C. Creating a secure channel between Mobile Nodes and Service Providers
+- D. All of the above
+- E. None of the above
+
+<details><summary>看答案</summary>
+
+正解：D　（GSMA `teleqna-train-6640`）
+
+</details>
+
+**353.** What is the difference between centralized and decentralized contact tracing solutions?
+
+- A. Centralized solutions require users to share their contact lists, while decentralized solutions do not collect any information from the mobile devices.
+- B. Centralized solutions do not collect any information from the mobile devices, while decentralized solutions require users to share their contact lists.
+- C. Centralized solutions only notify exposed users, while decentralized solutions notify both exposed and infected users.
+- D. Centralized solutions require users to share their beacons, while decentralized solutions do not collect any information from the mobile devices.
+- E. Centralized solutions only require users to share their beacons, while decentralized solutions require users to share their beacons and contact lists.
+
+<details><summary>看答案</summary>
+
+正解：A　（GSMA `teleqna-train-6661`）
+
+</details>
+
+**354.** What is the purpose of the Supervisory Control and Data Acquisition (SCADA) model?
+
+- A. To provide high-speed measurements of AC voltages and currents in the transmission grid
+- B. To collect system wide data on all generators and substations
+- C. To control the elements of the power system and assist the power system operator
+- D. To enhance controllability and increase power transfer capability of the network
+- E. To integrate Renewable Energy Sources and other Distributed Energy Resources (DER)
+
+<details><summary>看答案</summary>
+
+正解：C　（GSMA `teleqna-train-6789`）
+
+</details>
+
+**355.** What is the main goal of the spoofing attack using LiDAR sensors?
+
+- A. To hide objects within the sensor's field of view
+- B. To add pseudo-objects to confuse the sensor
+- C. To forge and transmit spoof signals at a higher power than legitimate signals
+- D. To influence the auto-exposure control of the sensor
+- E. To force the receiver to lose its lock on the satellite
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-6816`）
+
+</details>
+
+**356.** What types of attacks can be used to hide or add objects in tasks such as automatic parking or moving in reverse gear using ultrasonic and RADAR sensors?
+
+- A. Jamming and spoofing attacks
+- B. Replay and spoofing attacks
+- C. Gray-box and data-agnostic attacks
+- D. Relay and spoofing attacks
+- E. Random spoofing, adaptive spoofing, and jamming attacks
+
+<details><summary>看答案</summary>
+
+正解：A　（GSMA `teleqna-train-6862`）
+
+</details>
+
+**357.** What is the purpose of data verification in the data processing phase?
+
+- A. To monitor the collected data in real-time
+- B. To align the different sensors
+- C. To filter out unwanted data samples
+- D. To validate the collected data
+
+<details><summary>看答案</summary>
+
+正解：D　（GSMA `teleqna-train-7042`）
+
+</details>
+
+**358.** What does the scientific evidence say about the use of mobile phones by children? [IEEE C95.1]
+
+- A. Children might be more vulnerable to health effects from mobile phone use
+- B. There is evidence to support the need for a special precautionary approach for children
+- C. There is no evidence to support the need for a special precautionary approach for children
+- D. Mobile phone use has been shown to have detrimental effects on children's health
+- E. The effects of mobile phone use on children are unknown
+
+<details><summary>看答案</summary>
+
+正解：C　（GSMA `teleqna-train-7186`）
+
+</details>
+
+**359.** Which defense scheme uses the mean value and variance of reports to find outliers?
+
+- A. Global Decision-Based Defense
+- B. Mean-Based Defense
+- C. Underlying Distribution-Based Defense
+- D. Utility-Based Defense
+- E. Propagation Model-Based Defense
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-7188`）
+
+</details>
+
+**360.** Which type of attack targets the environment to produce false sensor readings?
+
+- A. Buffer overflow attacks
+- B. Structured query language injections
+- C. Eavesdropping attacks
+- D. Sensor spoofing attacks
+- E. Jamming attacks
+
+<details><summary>看答案</summary>
+
+正解：D　（GSMA `teleqna-train-7482`）
+
+</details>
+
+**361.** What is the discipline that quantifies the relationship between external exposure quantities and internal dose and dose rate quantities? [IEEE C95.1]
+
+- A. Dosimetry
+- B. Epithelial power density
+- C. Exposure
+- D. Hazard
+- E. EMI
+
+<details><summary>看答案</summary>
+
+正解：A　（GSMA `teleqna-train-7497`）
+
+</details>
+
+**362.** What is network subset personalisation?
+
+- A. An association established by a network layer between two users
+- B. Allows the network operator to personalise a ME so that it can only be used with that particular network operator's (U)SIMs
+- C. A refinement of network personalisation, which allows network operators to limit the usage of a ME to a subset of (U)SIMs
+- D. A logical node responsible for radio transmission / reception in one or more cells to/from the User Equipment
+- E. Relating to general, CHV related, GSM security related and subscription related procedures
+
+<details><summary>看答案</summary>
+
+正解：C　（GSMA `teleqna-train-7954`）
+
+</details>
+
+**363.** What is the purpose of the Common API Framework (CAPIF) for 3GPP Northbound APIs? [3GPP Release 16]
+
+- A. To define a standard API framework for 3rd party Application Servers
+- B. To handle communication failure cases
+- C. To optimize the 3GPP Northbound APIs
+- D. To specify the xMB API for MBMS
+- E. To support the implementation of SEAL services
+
+<details><summary>看答案</summary>
+
+正解：A　（GSMA `teleqna-train-389`）
+
+</details>
+
+**364.** What is the purpose of the SCEF+NEF node in the non-roaming architecture for Service Exposure? [3GPP Release 18]
+
+- A. To provide southbound interfaces between SCEF and EPC nodes
+- B. To associate the UE with an SCEF+NEF node for Service Capability Exposure
+- C. To support monitoring APIs between SCEF and NEF
+- D. To discover the north-bound APIs supported by EPC or 5GC network
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-524`）
+
+</details>
+
+**365.** What is the purpose of architecture enhancements in supporting signal acquisition from multiple sources and sensor fusion?
+
+- A. To facilitate network-side positioning enhancements through tracking
+- B. To enable the use of low-cost vehicles for safety critical applications
+- C. To reduce the computational complexity at the device side
+- D. To validate the position derived and reported by the device
+- E. To enable fast access and exchange of sensor information
+
+<details><summary>看答案</summary>
+
+正解：A　（GSMA `teleqna-train-713`）
+
+</details>
+
+**366.** What is the main advantage of using SDR (software-defined radio) techniques?
+
+- A. They provide higher computational power for signal processing.
+- B. They are more cost-effective compared to traditional communication systems.
+- C. They offer flexibility to update receiver and transmitter functionalities by modifying software code.
+- D. They result in lower latency in signal processing.
+- E. None of the above.
+
+<details><summary>看答案</summary>
+
+正解：C　（GSMA `teleqna-train-798`）
+
+</details>
+
+**367.** What is the purpose of the wireless grant-free data plane in the SD-VEC infrastructure?
+
+- A. To provide multi-user detection techniques for contention-free wireless access
+- B. To ensure reliability and physical error-rate performance in vehicular communications
+- C. To enable automatic task allocations between edge ANs and the cloud
+- D. To facilitate proactive access between vehicles and APs
+- E. To support dynamic radio resource assignments among virtual clusters
+
+<details><summary>看答案</summary>
+
+正解：D　（GSMA `teleqna-train-1046`）
+
+</details>
+
+**368.** What is the definition of a digital twin (DT)?
+
+- A. A virtual model of a physical object in the digital world
+- B. A remote access tool for network operators
+- C. A network optimization technique using machine learning
+- D. A tool used only in smart manufacturing
+
+<details><summary>看答案</summary>
+
+正解：A　（GSMA `teleqna-train-1666`）
+
+</details>
+
+**369.** Which approach aims to reduce resource requirements of mobile applications by utilizing the application-level resource management methods?
+
+- A. Remote Execution
+- B. Remote Storage
+- C. Fidelity Adaptation
+- D. Resource-Aware Computing
+- E. Multi-tier Programming
+
+<details><summary>看答案</summary>
+
+正解：D　（GSMA `teleqna-train-1870`）
+
+</details>
 
 **370.** What is the purpose of the U.S. National Science Foundation National Radio Dynamic Zone program?
 
@@ -2321,413 +2733,6 @@
 <details><summary>看答案</summary>
 
 正解：B　（GSMA `teleqna-train-7607`）
-
-</details>
-
-**540.** What does ARPU stand for? 
-
-- A. Average Revenue Per User
-- B. Annual Radio Performance Update
-- C. Advanced Radio Planning Unit
-- D. Automatic Radio Power Upgrade
-
-<details><summary>看答案</summary>
-
-正解：A　（GSMA `teleqna-train-7616`）
-
-</details>
-
-**541.** What is the definition of connectivity?
-
-- A. The ability to establish a physical connection between two or more devices
-- B. The speed at which data can be transmitted over a telecommunication network
-- C. The process of converting analog signals to digital signals
-- D. The range of frequencies used for wireless communication
-
-<details><summary>看答案</summary>
-
-正解：A　（GSMA `teleqna-train-7633`）
-
-</details>
-
-**542.** What impact does the presence of metallic objects have on RF exposure? [IEEE C95.1]
-
-- A. Reradiated fields are produced around metallic objects
-- B. Increased thermal burden on the body
-- C. Enhanced local SAR concentrations
-- D. Elevated temperatures in tissues adjacent to metallic objects
-- E. All of the above
-
-<details><summary>看答案</summary>
-
-正解：E　（GSMA `teleqna-train-7703`）
-
-</details>
-
-**543.** What does SAR stand for in the context of EM (electromagnetic) wave propagation through human tissues?
-
-- A. Specific Amplitude Reflection
-- B. Signal Absorption Ratio
-- C. Specific Absorption Rate
-- D. Simple Attenuation Response
-- E. Selective Attenuation Ratio
-
-<details><summary>看答案</summary>
-
-正解：C　（GSMA `teleqna-train-7776`）
-
-</details>
-
-**544.** What does the factor SFL = 3 justify in the IEEE Std C95.1-2019 standard? [IEEE C95.1]
-
-- A. Avoidance of long-term reactions
-- B. Avoidance of short-term reactions
-- C. Avoidance of immediate reactions
-- D. Avoidance of unknown reactions
-
-<details><summary>看答案</summary>
-
-正解：C　（GSMA `teleqna-train-7816`）
-
-</details>
-
-**545.** What is the main advantage of accounting for spatial smoothness in hyperspectral image classification?
-
-- A. Less salt-and-pepper classification maps
-- B. Ability to discriminate between structures made of the same materials
-- C. Revealing the size and shape of the structure the pixel belongs to
-- D. All of the above
-
-<details><summary>看答案</summary>
-
-正解：D　（GSMA `teleqna-train-7850`）
-
-</details>
-
-**546.** What does the term 'low-latency' mean in the context of performance and deployability metrics for AC (Anonymous Communication) protocols?
-
-- A. Incorporates no latency to the communication and typically supports real-time applications
-- B. Does not require real-time communications and supports applications that can tolerate a certain delay
-- C. Introduces a random delay and may induce a restricted latency; supports applications that can tolerate a restricted delay
-- D. Protocols with low-latency are not implemented
-- E. Protocols with low-latency have code that is not publicly available
-
-<details><summary>看答案</summary>
-
-正解：A　（GSMA `teleqna-train-7978`）
-
-</details>
-
-**547.** Which wireless charging standard specifies low-power and medium-power categories for wireless chargers?
-
-- A. A4WP
-- B. Powermat
-- C. Energizer
-- D. Qi
-- E. RAVPower
-
-<details><summary>看答案</summary>
-
-正解：D　（GSMA `teleqna-train-7980`）
-
-</details>
-
-**548.** What does OCN Simulator stand for?
-
-- A. Orthogonal Control Noise Simulator
-- B. Orthogonal Channel Noise Simulator
-- C. Operational Channel Noise Simulator
-- D. Operating Control Noise Simulator
-
-<details><summary>看答案</summary>
-
-正解：B　（GSMA `teleqna-train-7982`）
-
-</details>
-
-**549.** What is the purpose of motion tracking in autonomous driving?
-
-- A. Following data points through time
-- B. Following features or objects through time
-- C. Estimating optical flow
-- D. All of the above
-- E. None of the above
-
-<details><summary>看答案</summary>
-
-正解：B　（GSMA `teleqna-train-107`）
-
-</details>
-
-**550.** What are the limitations of multilateration in airport surveillance?
-
-- A. Susceptibility to multi-path propagation
-- B. Requirement of correct detection at many receiving stations
-- C. Need for a separate link between central processing station and receivers
-- D. Cost and logistics of deploying enough sensors and stations
-- E. All of the above
-
-<details><summary>看答案</summary>
-
-正解：E　（GSMA `teleqna-train-347`）
-
-</details>
-
-**551.** What can help reduce the cost to the utility provider and the damage to the environment?
-
-- A. Installing more power plants
-- B. Shifting power load from peak to off-peak times
-- C. Upgrading existing infrastructure
-- D. Creating more standby sources of energy
-- E. Increasing energy supply
-
-<details><summary>看答案</summary>
-
-正解：B　（GSMA `teleqna-train-373`）
-
-</details>
-
-**552.** What is the purpose of the energy price signal in the IoME (Internet of Mobile Energy) architecture?
-
-- A. To determine the overall energy state in the smart grid
-- B. To incentivize EVs to visit surrounding suburbs
-- C. To control the load on distribution lines
-- D. To guide individual mobility decisions
-
-<details><summary>看答案</summary>
-
-正解：A　（GSMA `teleqna-train-560`）
-
-</details>
-
-**553.** What is the main advantage of using gossip algorithms for distributed compression and field estimation?
-
-- A. They increase energy efficiency
-- B. They provide accurate reconstruction of the field
-- C. They require less computational power
-- D. They reduce the total number of bits transmitted
-
-<details><summary>看答案</summary>
-
-正解：D　（GSMA `teleqna-train-577`）
-
-</details>
-
-**554.** What is unique about the population distribution in rural areas?
-
-- A. Uniformly populated
-- B. Densely populated
-- C. Scattered settlements
-- D. Clustered settlements
-- E. Spread out settlements
-
-<details><summary>看答案</summary>
-
-正解：D　（GSMA `teleqna-train-597`）
-
-</details>
-
-**555.** What is the benefit of implementing multi-carrier power amplifiers?
-
-- A. It simplifies the management of network energy saving.
-- B. It reduces the power consumption of the active antenna unit.
-- C. It increases the energy efficiency of the active antenna unit.
-- D. It enables the active antenna unit to operate at lower efficiency areas.
-- E. It decreases the complexity of the active antenna unit architecture.
-
-<details><summary>看答案</summary>
-
-正解：C　（GSMA `teleqna-train-671`）
-
-</details>
-
-**556.** What is the role of the eNodeB in carrier selection?
-
-- A. Scanning the spectrum
-- B. Measuring power levels
-- C. Selecting the channel with lowest interference
-- D. All of the above
-
-<details><summary>看答案</summary>
-
-正解：D　（GSMA `teleqna-train-709`）
-
-</details>
-
-**557.** What is the purpose of FoV (field-of-view) alignment in the data collection process?
-
-- A. To capture data at different rates
-- B. To align the different sensors
-- C. To monitor the collected data in real-time
-- D. To synchronize the data modalities
-
-<details><summary>看答案</summary>
-
-正解：B　（GSMA `teleqna-train-993`）
-
-</details>
-
-**558.** What is one of the challenges posed by power constraints in wearable devices?
-
-- A. Difficulty in fitting a conventional battery inside
-- B. Limited availability of power consuming components like network chips
-- C. Lack of demand for wearable devices in the market
-- D. Requirement of bulky and heavy design for the devices
-- E. Unreliable battery life
-
-<details><summary>看答案</summary>
-
-正解：A　（GSMA `teleqna-train-1097`）
-
-</details>
-
-**559.** What is the purpose of grid clustering in power systems?
-
-- A. To regulate the frequency of the power system.
-- B. To determine the power demand of the system.
-- C. To estimate the state of the power grid based on SCADA measurements.
-- D. To identify line outages in the power grid.
-- E. To modularize and partition the power grid for efficient operation and planning.
-
-<details><summary>看答案</summary>
-
-正解：E　（GSMA `teleqna-train-1227`）
-
-</details>
-
-**560.** What is the purpose of ABS (Almost Blank Subframes) in the context of LTE and Wi-Fi coexistence?
-
-- A. To improve LTE spectral efficiency and network capacity
-- B. To enable coordination between cells of different RATs
-- C. To reduce interference between LTE and Wi-Fi cells at high traffic loads
-- D. To increase the overall aggregate capacity of LTE and Wi-Fi networks
-- E. To allow Wi-Fi access points to detect channel vacancy
-
-<details><summary>看答案</summary>
-
-正解：C　（GSMA `teleqna-train-1440`）
-
-</details>
-
-**561.** Which type of approach allows users to make decisions autonomously?
-
-- A. Centralized approach
-- B. Decentralized approach
-- C. Optimization-based approach
-- D. Heuristic approach
-
-<details><summary>看答案</summary>
-
-正解：B　（GSMA `teleqna-train-1505`）
-
-</details>
-
-**562.** What type of applications can be offloaded to WiFi?
-
-- A. Licensed applications
-- B. Delay-stringent applications
-- C. Unlicensed applications
-- D. Delay-tolerant applications
-
-<details><summary>看答案</summary>
-
-正解：D　（GSMA `teleqna-train-1541`）
-
-</details>
-
-**563.** What is the phase of flight where the aircraft leaves the runway via one of the available turn-off ramps toward the terminal, and vice versa for takeoff?
-
-- A. Holding pattern
-- B. Landing and takeoff
-- C. Taxiing
-- D. Parking
-
-<details><summary>看答案</summary>
-
-正解：C　（GSMA `teleqna-train-1583`）
-
-</details>
-
-**564.** What type of network optimization is supported based on context information in the 3GPP system? [3GPP Release 17]
-
-- A. Optimized service provisioning procedures
-- B. Support for efficient transmission of small data
-- C. Support for network resource utilization
-- D. Support for quality of service equal to or better than GSM and UMTS
-- E. Support for multiple parallel QoS levels
-
-<details><summary>看答案</summary>
-
-正解：C　（GSMA `teleqna-train-1674`）
-
-</details>
-
-**565.** What should be done in addition to measuring the array response on a strong point source in FPA (focal plane array) beamforming?
-
-- A. Measurement of the array response on a test probe
-- B. Measurement of the array response on an empty sky
-- C. Measurement of the array response on a known input signal
-- D. Measurement of the array response on a calibration source
-- E. Measurement of the array response on a stationary reference antenna
-
-<details><summary>看答案</summary>
-
-正解：B　（GSMA `teleqna-train-1695`）
-
-</details>
-
-**566.** What is the advantage of compressing measurements in RME (radio map estimation)?
-
-- A. Higher accuracy of location estimation
-- B. Lower spatial density of measurements
-- C. Higher bandwidth required to report measurements
-- D. Reduced feedback overhead
-- E. Higher resource and security requirements
-
-<details><summary>看答案</summary>
-
-正解：D　（GSMA `teleqna-train-1862`）
-
-</details>
-
-**567.** What is the purpose of the Distributed Automatic Access Engine in the Traffic-dependent Network Access Mechanism?
-
-- A. To allocate wide-area network radio resources
-- B. To recommend an optimal network to vehicles
-- C. To provide real-time regional and global traffic conditions
-- D. To analyze traffic-related services
-- E. To decide access option based on QoS requirements and other factors
-
-<details><summary>看答案</summary>
-
-正解：E　（GSMA `teleqna-train-1999`）
-
-</details>
-
-**568.** In which phase of a network's life cycle does knowledge transfer and robust expansion occur?
-
-- A. Operation phase
-- B. Maintenance phase
-- C. Expansion phase
-- D. Design and deployment phase
-
-<details><summary>看答案</summary>
-
-正解：C　（GSMA `teleqna-train-2032`）
-
-</details>
-
-**569.** What are the major fundamental trade-offs in a wireless network?
-
-- A. Capacity, latency, spectral efficiency
-- B. Coverage, reliability, spectral efficiency
-- C. Capacity, coverage, reliability
-- D. Latency, coverage, spectral efficiency
-- E. Reliability, latency, capacity
-
-<details><summary>看答案</summary>
-
-正解：B　（GSMA `teleqna-train-2038`）
 
 </details>
 

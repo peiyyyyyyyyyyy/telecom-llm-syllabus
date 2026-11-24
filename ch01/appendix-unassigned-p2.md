@@ -1,8 +1,104 @@
-# 附錄　第 1 章未歸類的 GSMA 訓練題（1094 題）（第 2／6 頁）
+# 附錄　未歸類的 GSMA 訓練題（第 1、2、4 章歸類時都找不到小節）（1195 題）（第 2／6 頁）
 
 頁次：[1](appendix-unassigned.md)　**2**　[3](appendix-unassigned-p3.md)　[4](appendix-unassigned-p4.md)　[5](appendix-unassigned-p5.md)　[6](appendix-unassigned-p6.md)
 
-### 物聯網（95 題）（續）
+### 物聯網（96 題）（續）
+
+**65.** Why is dynamic composition important in IoT (Internet of Things) solutions?
+
+- A. To facilitate continuity and track user movements
+- B. To enable real-time query processing
+- C. To add extensions and configurations when necessary
+- D. To evaluate and improve IoT solutions in a social and user point of view
+- E. To support distributed processing and communication
+
+<details><summary>看答案</summary>
+
+正解：C　（GSMA `teleqna-train-6080`）
+
+</details>
+
+**66.** What is the typical data rate of LPWANs (Low-Power Wide Area Networks)?
+
+- A. 250 Kbit/s
+- B. 1-2 Mbit/s
+- C. 10-100 Mbit/s
+- D. 1-10 Gbit/s
+
+<details><summary>看答案</summary>
+
+正解：A　（GSMA `teleqna-train-200`）
+
+</details>
+
+**67.** What is the definition of the Internet of Things (IoT)?
+
+- A. An infrastructure of the information society that connects equipment/devices (things) to the Internet and to one another.
+- B. A research area that focuses on underwater technologies.
+- C. A concept that connects devices in urban areas to the Internet and to one another.
+- D. A field of study that uses big data analytics to analyze machine intelligence.
+- E. A technology that allows for better interaction with our living environment.
+
+<details><summary>看答案</summary>
+
+正解：A　（GSMA `teleqna-train-353`）
+
+</details>
+
+**68.** In a LoRaWAN network, what determines the off-period duration for each device?
+
+- A. The maximum duty-cycle
+- B. The channel bandwidth
+- C. The packet transmission time
+- D. The Time On Air
+- E. The Spread Factor
+
+<details><summary>看答案</summary>
+
+正解：D　（GSMA `teleqna-train-1239`）
+
+</details>
+
+**69.** Which company developed LoRa?
+
+- A. Semtech
+- B. Cycleo
+- C. French
+- D. IP
+- E. Ethernet
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-1245`）
+
+</details>
+
+**70.** What is the purpose of MetricMap in wireless sensor networks?
+
+- A. To estimate the dependability metric of a sensor network
+- B. To detect anomalous behaviors in a sensor network
+- C. To estimate the link quality between sensor nodes
+- D. To classify the behavior of animals in a sensor network
+- E. To synchronize the clocks of sensor nodes
+
+<details><summary>看答案</summary>
+
+正解：C　（GSMA `teleqna-train-2726`）
+
+</details>
+
+**71.** What is the typical sensitivity of an LPWAN (Low-Power Wide Area Network) receiver?
+
+- A. -125 dBm
+- B. -90 dBm
+- C. -150 dBm
+- D. -180 dBm
+
+<details><summary>看答案</summary>
+
+正解：C　（GSMA `teleqna-train-3871`）
+
+</details>
 
 **72.** What limits the maximum throughput in LoRaWAN for deployments with a small number of end-devices?
 
@@ -332,7 +428,21 @@
 
 </details>
 
-### 定位（55 題）
+**96.** Which LPWA (Low Power Wide Area) standard supports only one-way communication from end devices to a base station?
+
+- A. IEEE 802.15.4k
+- B. IEEE 802.15.4g
+- C. LoRaWAN
+- D. Weightless-N
+- E. DASH7
+
+<details><summary>看答案</summary>
+
+正解：D　（GSMA `teleqna-train-4987`）
+
+</details>
+
+### 定位（70 題）
 
 **1.** Which localization system ensures autonomous geo-spatial localization, navigation, and timing services on a global or regional basis?
 
@@ -1089,6 +1199,213 @@
 
 </details>
 
+**56.** Which positioning techniques are supported in the NR positioning work item? [3GPP Release 16]
+
+- A. DL TDOA, DL AoD, MLAT, NR E-CID
+- B. UL TDOA, UL AoA (Azimuth and Zenith), OTDOA, GNSS SSR
+- C. DL TDOA, DL AoD, UL TDOA, UL AoA (Azimuth and Zenith), Multi-RTT, NR E-CID
+- D. UL TDOA, UL AoA (Azimuth and Zenith), GNSS SSR, PPP-RTK
+- E. DL TDOA, DL AoD, Multi-RTT, NR E-CID, GNSS SSR
+
+<details><summary>看答案</summary>
+
+正解：C　（GSMA `teleqna-train-601`）
+
+</details>
+
+**57.** How is the assistance information made available to the UE in UE-Assisted location services? [3GPP Release 17]
+
+- A. The assistance information is encrypted and delivered through point to point signalling
+- B. The assistance information is encrypted and continuously available in idle mode and during a call
+- C. The assistance information is decrypted and delivered through point to point signalling
+- D. The assistance information is decrypted and continuously available in idle mode and during a call
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-2200`）
+
+</details>
+
+**58.** Which additional positioning technique is supported in Rel-16 LPP for GNSS SSR? [3GPP Release 16]
+
+- A. PPP and RTK
+- B. Multi-RTT
+- C. NR E-CID
+- D. DL AoD
+- E. DL PRS
+
+<details><summary>看答案</summary>
+
+正解：A　（GSMA `teleqna-train-4778`）
+
+</details>
+
+**59.** When is the location request processed with the highest priority level? [3GPP Release 17]
+
+- A. For all location requests
+- B. Only for emergency services
+- C. Only for PLMN operator Services
+- D. For location requests towards the user’s Target UE
+- E. For location requests towards her own Target UE
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-5756`）
+
+</details>
+
+**60.** What type of frequency hopping can improve positioning performance for RedCap UEs in FR2 InF-SH scenario? [3GPP Release 18]
+
+- A. Tx hopping
+- B. Rx hopping
+- C. Both Tx and Rx hopping
+- D. Frequency hopping cannot improve positioning performance
+- E. All of the above
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-7863`）
+
+</details>
+
+**61.** What are the high-level features specified for 5G Location Services? [3GPP Release 16]
+
+- A. LCS Quality of services
+- B. LMF selection, UE LCS privacy handling
+- C. LCS Quality of services, LMF selection
+- D. UE LCS privacy handling, LMF selection
+- E. UE LCS privacy handling, LCS Quality of services
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-1100`）
+
+</details>
+
+**62.** Which signaling procedure is introduced to support SL Positioning? [3GPP Release 18]
+
+- A. SL Access Request
+- B. SL Location Information Transfer
+- C. SL Power Control Mechanism
+- D. SL Measurement Report
+- E. SL Positioning Capability Transfer
+
+<details><summary>看答案</summary>
+
+正解：E　（GSMA `teleqna-train-3721`）
+
+</details>
+
+**63.** Which reference signals can be used for NR carrier phase positioning? [3GPP Release 18]
+
+- A. Only MIMO SRS
+- B. Existing DL PRS and UL SRS
+- C. DL PRS of a target TRP
+- D. DL PRS of a reference TRP
+- E. Only UL SRS
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-4161`）
+
+</details>
+
+**64.** What are the physical layer signals used for RAT-dependent positioning solutions in NR? [3GPP Release 16]
+
+- A. DL Positioning Reference Signals (DL PRS) and UL Sounding Reference Signals (SRS)
+- B. DL Positioning Reference Signals (DL PRS) and UL Sounding Reference Signals (SRS) for positioning
+- C. UL Sounding Reference Signals (SRS) and Downlink Time Difference of Arrival (DL TDOA)
+- D. Uplink Time Difference of Arrival (UL TDOA) and Uplink Angle of Arrival (UL AoA)
+- E. Uplink Time Difference of Arrival (UL TDOA) and Downlink Angle of Departure (DL AoD)
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-4277`）
+
+</details>
+
+**65.** What accuracy of relative lateral positioning does the 3GPP system support according to requirement R.5.1-007? [3GPP Release 17]
+
+- A. 1 m
+- B. 5 m
+- C. 1 m
+- D. 5 m
+- E. 10 m
+
+<details><summary>看答案</summary>
+
+正解：A　（GSMA `teleqna-train-4484`）
+
+</details>
+
+**66.** What is the default treatment for positioning requests? [3GPP Release 17]
+
+- A. Accept the positioning request
+- B. Reject the positioning attempt
+- C. Always notify the target UE user
+- D. Depends on the Target UE Subscription Profile
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-5520`）
+
+</details>
+
+**67.** What types of LCS responses are there? [3GPP Release 17]
+
+- A. Immediate and deferred
+- B. Internal and external
+- C. Successful and failed
+- D. Regional and national
+- E. Mobile assisted and mobile based
+
+<details><summary>看答案</summary>
+
+正解：A　（GSMA `teleqna-train-5931`）
+
+</details>
+
+**68.** What should the LCS server do when a request is cancelled by the target UE? [3GPP Release 17]
+
+- A. Inform the target UE
+- B. Notify the LCS client
+- C. Update the Privacy Exception List
+- D. Cancel other requests by the target UE
+- E. Activate additional requests for the target UE
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-7142`）
+
+</details>
+
+**69.** When can the LCS server inform the target UE about the activation of Periodic Location Reporting? [3GPP Release 17]
+
+- A. When the PLMN provides support for Periodic Location Reporting
+- B. When the target UE queries the LCS server
+- C. When a request is cancelled by the target UE
+- D. When an LCS client activates Periodic Location Reporting
+- E. When the Privacy Exception List is activated
+
+<details><summary>看答案</summary>
+
+正解：D　（GSMA `teleqna-train-7758`）
+
+</details>
+
+**70.** Is a subscription profile necessary for certain authorized LCS Clients internal to the PLMN? [3GPP Release 17]
+
+- A. Yes
+- B. No
+- C. Depends on the type of service
+- D. Depends on the local regulatory requirements
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-7840`）
+
+</details>
+
 ### 網路資料分析（NWDAF 等）（48 題）
 
 **1.** How does the NWDAF collect information from the UPF? [3GPP Release 18]
@@ -1743,7 +2060,7 @@
 
 </details>
 
-### 區塊鏈（39 題）
+### 區塊鏈（40 題）
 
 **1.** What is the function of the unstructured peer-to-peer (P2P) network in Bitcoin?
 
@@ -2280,6 +2597,20 @@
 
 </details>
 
+**40.** What are the three functions of NFT (Non-Fungible Token) smart contracts?
+
+- A. Verify, Mint, and Burn
+- B. Mint, Transfer, and Burn
+- C. Mint, Transfer, and Verify
+- D. Deploy, Transfer, and Burn
+- E. Mint, Deploy, and Burn
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-5543`）
+
+</details>
+
 ### 快取（29 題）
 
 **1.** What are the characteristics of caching helpers in the proposed architecture?
@@ -2414,333 +2745,6 @@
 <details><summary>看答案</summary>
 
 正解：D　（GSMA `teleqna-train-1060`）
-
-</details>
-
-**11.** What is the purpose of edge caching?
-
-- A. To reduce content access delay
-- B. To facilitate duplicate transmission from remote servers
-- C. To increase backhaul usage
-- D. To exploit the synergy of caching and computing
-
-<details><summary>看答案</summary>
-
-正解：A　（GSMA `teleqna-train-1386`）
-
-</details>
-
-**12.** What is the advantage of using Fountain coding in the caching system?
-
-- A. It allows for faster file transmission
-- B. It simplifies the file assignment problem
-- C. It enables a distributed caching system
-- D. It reduces the need for backhaul communication
-- E. It increases the storage capacity of helper nodes
-
-<details><summary>看答案</summary>
-
-正解：B　（GSMA `teleqna-train-1493`）
-
-</details>
-
-**13.** What is the major benefit of content caching in wireless applications?
-
-- A. Minimizing content downloading time
-- B. Alleviating traffic loads on the core networks
-- C. Mitigating over-the-air wireless traffics
-- D. Reducing the total amount of wireless traffics
-- E. All of the above
-
-<details><summary>看答案</summary>
-
-正解：E　（GSMA `teleqna-train-1656`）
-
-</details>
-
-**14.** What makes the caching system in cellular wireless networks different from caching in Content Delivery Networks (CDNs)?
-
-- A. Limited spectrum resources and dynamic wireless channels
-- B. User mobility
-- C. Smaller storage capacity of RAN caches compared to CDN caches
-- D. Cache placement strategy
-- E. All of the above
-
-<details><summary>看答案</summary>
-
-正解：E　（GSMA `teleqna-train-1758`）
-
-</details>
-
-**15.** What is the tradeoff in caching at BSs in wireless networks?
-
-- A. Cache size and backhaul capacity
-- B. Cache-hit probability and energy consumption
-- C. User mobility and inter-cell interference
-- D. Network throughput and QoE
-- E. Caching policy and channel fading
-
-<details><summary>看答案</summary>
-
-正解：A　（GSMA `teleqna-train-2058`）
-
-</details>
-
-**16.** What are the fundamental tradeoffs and design aspects of caching at the wireless edge?
-
-- A. Reduced latency and energy consumption
-- B. Improved spectral efficiency and energy efficiency
-- C. Traffic characteristics and QoE metrics
-- D. Spatial resources and backhaul capacity
-
-<details><summary>看答案</summary>
-
-正解：B　（GSMA `teleqna-train-2087`）
-
-</details>
-
-**17.** What is the main advantage of pre-caching desired information to selected users?
-
-- A. Optimizing reactive networks
-- B. Reducing the peak load of cellular networks
-- C. Predicting future events in an intelligent manner
-- D. Exploiting users' social relationships and ties
-- E. Analyzing user's traffic and caching content locally
-
-<details><summary>看答案</summary>
-
-正解：B　（GSMA `teleqna-train-2664`）
-
-</details>
-
-**18.** How can caching popular contents at wireless hot spots benefit the system?
-
-- A. Reduce data traffic
-- B. Improve signal processing speed
-- C. Increase network coverage
-- D. Enhance data security
-- E. All of the above
-
-<details><summary>看答案</summary>
-
-正解：A　（GSMA `teleqna-train-2676`）
-
-</details>
-
-**19.** What is the optimum caching strategy for static user terminals?
-
-- A. No caching
-- B. Cache popular files
-- C. Cache all files
-- D. Cache files at random
-
-<details><summary>看答案</summary>
-
-正解：B　（GSMA `teleqna-train-3339`）
-
-</details>
-
-**20.** What is the advantage of collaborative caching?
-
-- A. Higher cache hit rate
-- B. Lower backhaul usage
-- C. Reduced content access delay
-- D. Duplicate transmission from remote servers
-
-<details><summary>看答案</summary>
-
-正解：A　（GSMA `teleqna-train-6608`）
-
-</details>
-
-**21.** What is the benefit of content caching in cellular networks?
-
-- A. Reduction in backhaul usage
-- B. Improved user Quality of Experience (QoE)
-- C. Capital Expenditure (CAPEX) reduction
-- D. Operational Expenditure (OPEX) reduction
-- E. All of the above
-
-<details><summary>看答案</summary>
-
-正解：E　（GSMA `teleqna-train-7004`）
-
-</details>
-
-**22.** Which of the following caching schemes delivers the requested content by directly accessing it from the local storage without any delay?
-
-- A. Local caching
-- B. D2D caching
-- C. SBS caching
-- D. MBS caching
-- E. None of the above
-
-<details><summary>看答案</summary>
-
-正解：A　（GSMA `teleqna-train-7161`）
-
-</details>
-
-**23.** Which of the following caching schemes delivers the requested content by accessing it from the local SBS (Small-cell Base Station) if it is available?
-
-- A. Local caching
-- B. D2D caching
-- C. SBS caching
-- D. MBS caching
-- E. None of the above
-
-<details><summary>看答案</summary>
-
-正解：C　（GSMA `teleqna-train-7318`）
-
-</details>
-
-**24.** What is the benefit of caching at BSs in wireless networks?
-
-- A. Improving energy efficiency
-- B. Increasing cache-hit probability
-- C. Reducing backhaul congestion
-- D. Enhancing network capacity
-- E. Decreasing interference
-
-<details><summary>看答案</summary>
-
-正解：C　（GSMA `teleqna-train-7350`）
-
-</details>
-
-**25.** What is the main principle of the proposed architecture for femtocaching in helper nodes?
-
-- A. To increase the backhaul link traffic
-- B. To replace femto base stations with high storage capacity small base stations
-- C. To reduce the storage capacity of helper nodes
-- D. To increase the backhaul communication in a heterogeneous network
-- E. To replace caching helpers with macro base stations
-
-<details><summary>看答案</summary>
-
-正解：B　（GSMA `teleqna-train-7420`）
-
-</details>
-
-**26.** What are the advantages of caching popular contents locally at the wireless edge?
-
-- A. Reduced latency and energy consumption
-- B. Higher backhaul capacity
-- C. Improved spectral efficiency
-- D. Enhanced spatial resources
-
-<details><summary>看答案</summary>
-
-正解：A　（GSMA `teleqna-train-7449`）
-
-</details>
-
-**27.** What is the goal of integrated satellite-terrestrial architectures for caching?
-
-- A. To reduce the latency of the satellite systems
-- B. To maximize the system throughput or sum-rate
-- C. To minimize the required resources without interfering with the normal operation of the network
-- D. To minimize the total transmission time
-
-<details><summary>看答案</summary>
-
-正解：C　（GSMA `teleqna-train-7736`）
-
-</details>
-
-**28.** What is the main benefit of caching popular content at edge routers?
-
-- A. Optimized routing decisions
-- B. Improved network security
-- C. Increased network capacity
-- D. Reduced latency
-
-<details><summary>看答案</summary>
-
-正解：D　（GSMA `teleqna-train-7860`）
-
-</details>
-
-**29.** What is an important aspect of efficient caching strategies?
-
-- A. Accurate prediction of demands
-- B. Intelligent routing decisions
-- C. Optimal network dimensioning
-- D. QoS metrics
-
-<details><summary>看答案</summary>
-
-正解：A　（GSMA `teleqna-train-7908`）
-
-</details>
-
-### 量子（21 題）
-
-**1.** What is the purpose of trusted-repeater networks in the Quantum internet (Qinternet)?
-
-- A. To provide end-to-end security
-- B. To extend the network to large areas
-- C. To directly link nodes
-- D. To increase the distance between directly connected nodes
-
-<details><summary>看答案</summary>
-
-正解：B　（GSMA `teleqna-train-791`）
-
-</details>
-
-**2.** What is the role of quantum repeaters in the distribution of entanglement?
-
-- A. To generate entangled pairs
-- B. To measure and copy entangled qubits
-- C. To transmit entangled qubits without physical transfer
-- D. To overcome decoherence in entangled pairs
-- E. To extend the distribution of entanglement over longer distances
-
-<details><summary>看答案</summary>
-
-正解：E　（GSMA `teleqna-train-912`）
-
-</details>
-
-**3.** What does a quantum network consist of?
-
-- A. Quantum computers and quantum sensors
-- B. Nodes, routers, repeaters, and quantum channels
-- C. Fiber and free-space optical channels
-- D. Quantum secure direct communication (QSDC) and quantum key distribution (QKD)
-
-<details><summary>看答案</summary>
-
-正解：B　（GSMA `teleqna-train-4354`）
-
-</details>
-
-**4.** What will be used in quantum networks for extending their scale once practical quantum memories become available?
-
-- A. Quantum key distribution (QKD)
-- B. Quantum teleportation
-- C. Quantum repeaters
-- D. Quantum computers
-
-<details><summary>看答案</summary>
-
-正解：C　（GSMA `teleqna-train-6788`）
-
-</details>
-
-**5.** What does connectivity refer to in the context of quantum computers?
-
-- A. The ability to simulate quantum systems on classical computers
-- B. The choice and performance of the underlying gate set
-- C. The overall circuit performance
-- D. The connection between qubits
-- E. The ability of compilers to translate circuits to the underlying hardware
-
-<details><summary>看答案</summary>
-
-正解：D　（GSMA `teleqna-train-7226`）
 
 </details>
 
