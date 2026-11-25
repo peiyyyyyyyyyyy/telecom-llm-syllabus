@@ -1,8 +1,62 @@
-# 附錄　未歸類的 GSMA 訓練題（第 1、2、4 章歸類時都找不到小節）（1219 題）（第 3／7 頁）
+# 附錄　未歸類的 GSMA 訓練題（第 1、2、4 章歸類時都找不到小節）（1281 題）（第 3／7 頁）
 
 頁次：[1](appendix-unassigned.md)　[2](appendix-unassigned-p2.md)　**3**　[4](appendix-unassigned-p4.md)　[5](appendix-unassigned-p5.md)　[6](appendix-unassigned-p6.md)　[7](appendix-unassigned-p7.md)
 
-### 快取（29 題）（續）
+### 快取（30 題）（續）
+
+**5.** What do small base stations in femtocaching networks have?
+
+- A. High-bandwidth backhaul links and low storage capabilities
+- B. Low-bandwidth backhaul links and high storage capabilities
+- C. High-bandwidth backhaul links and high storage capabilities
+- D. Low-bandwidth backhaul links and low storage capabilities
+- E. No backhaul links and only storage capabilities
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-4157`）
+
+</details>
+
+**6.** What are some types of attacks that mobile edge caching systems need to address?
+
+- A. Jamming and spoofing attacks
+- B. DoS and man-in-the-middle attacks
+- C. Privacy leakage and smart attacks
+- D. All of the above
+
+<details><summary>看答案</summary>
+
+正解：D　（GSMA `teleqna-train-5612`）
+
+</details>
+
+**7.** What is cache-hit probability?
+
+- A. The ratio of cache hits to cache misses
+- B. The probability of finding the requested files in the cache
+- C. The performance gain from caching
+- D. The prediction accuracy of content popularity and user preference
+- E. The energy consumed at backhaul and BS for improper content placement
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-90`）
+
+</details>
+
+**8.** What is cache-enabled Coordinated Multi-Point Transmission (CoMP-JT)?
+
+- A. It is a method to offload client/server traffic in Device-to-Device communications.
+- B. It is a way to maximize the cache-hit probability in dynamic networks.
+- C. It is a network coding technique for multicast delivery.
+- D. It is a way to alleviate interference in small cell networks by exchanging channel information.
+
+<details><summary>看答案</summary>
+
+正解：D　（GSMA `teleqna-train-249`）
+
+</details>
 
 **9.** What is the purpose of collaborative caching in mobile edge computing?
 
@@ -286,6 +340,19 @@
 <details><summary>看答案</summary>
 
 正解：A　（GSMA `teleqna-train-7908`）
+
+</details>
+
+**30.** What is the goal of a jammer in a mobile edge caching system?
+
+- A. To interrupt ongoing radio transmissions and prevent access to cached content
+- B. To deplete the resources of edge nodes, caching users, and sensors
+- C. Both option 1 and option 2
+- D. None of the above
+
+<details><summary>看答案</summary>
+
+正解：C　（GSMA `teleqna-train-3692`）
 
 </details>
 
@@ -863,7 +930,7 @@
 
 </details>
 
-### 其他（756 題）
+### 其他（813 題）
 
 **1.** Which RFID (radio-frequency identification) systems allow tags to communicate with each other directly?
 
@@ -2664,75 +2731,6 @@
 <details><summary>看答案</summary>
 
 正解：B　（GSMA `teleqna-train-7439`）
-
-</details>
-
-**133.** What is the purpose of the 'Group Reporting Guard Time'? [3GPP Release 14]
-
-- A. To handle group-based enhancements in the network capability exposure function
-- B. To reduce signalling for sending event reports of group members
-- C. To identify individual UEs within a group
-- D. To indicate the time for which monitoring event reporting can be aggregated
-- E. To resolve the group ID to individual UE ID
-
-<details><summary>看答案</summary>
-
-正解：D　（GSMA `teleqna-train-7821`）
-
-</details>
-
-**134.** What are the four activity patterns in cyber-physical control applications in automation? [3GPP Release 19]
-
-- A. Open-loop control, closed-loop control, sequence control, and batch control
-- B. Periodic deterministic communication, aperiodic deterministic communication, non-deterministic communication, and mixed traffic
-- C. Deterministic periodic communication, deterministic aperiodic communication, and non-deterministic communication
-- D. Deterministic periodic communication, deterministic aperiodic communication, and mixed traffic
-- E. Open-loop control, closed-loop control, and sequence control
-
-<details><summary>看答案</summary>
-
-正解：A　（GSMA `teleqna-train-7985`）
-
-</details>
-
-**135.** What is the purpose of the MCImp-MC_ARCH work item? [3GPP Release 14]
-
-- A. To specify a common functional architecture for MCVideo
-- B. To specify a common functional architecture for MCData
-- C. To specify a common functional architecture for all mission critical services
-- D. To specify a common functional architecture for MCPTT only
-
-<details><summary>看答案</summary>
-
-正解：C　（GSMA `teleqna-train-27`）
-
-</details>
-
-**136.** Which 5G vertical domain is the maritime domain a part of? [3GPP Release 16]
-
-- A. Public safety domain
-- B. Automotive domain
-- C. Factory automation domain
-- D. Satellite industrial domain
-- E. None of the above
-
-<details><summary>看答案</summary>
-
-正解：E　（GSMA `teleqna-train-59`）
-
-</details>
-
-**137.** What is the primary goal of constructing smart buildings?
-
-- A. To provide low-cost services to tenants
-- B. To reduce energy costs
-- C. To improve productivity and life quality of occupants
-- D. To collaborate with automation systems for disaster management
-- E. To provide emergency services
-
-<details><summary>看答案</summary>
-
-正解：C　（GSMA `teleqna-train-81`）
 
 </details>
 

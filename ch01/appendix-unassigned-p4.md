@@ -1,8 +1,77 @@
-# 附錄　未歸類的 GSMA 訓練題（第 1、2、4 章歸類時都找不到小節）（1219 題）（第 4／7 頁）
+# 附錄　未歸類的 GSMA 訓練題（第 1、2、4 章歸類時都找不到小節）（1281 題）（第 4／7 頁）
 
 頁次：[1](appendix-unassigned.md)　[2](appendix-unassigned-p2.md)　[3](appendix-unassigned-p3.md)　**4**　[5](appendix-unassigned-p5.md)　[6](appendix-unassigned-p6.md)　[7](appendix-unassigned-p7.md)
 
-### 其他（756 題）（續）
+### 其他（813 題）（續）
+
+**133.** What is the purpose of the 'Group Reporting Guard Time'? [3GPP Release 14]
+
+- A. To handle group-based enhancements in the network capability exposure function
+- B. To reduce signalling for sending event reports of group members
+- C. To identify individual UEs within a group
+- D. To indicate the time for which monitoring event reporting can be aggregated
+- E. To resolve the group ID to individual UE ID
+
+<details><summary>看答案</summary>
+
+正解：D　（GSMA `teleqna-train-7821`）
+
+</details>
+
+**134.** What are the four activity patterns in cyber-physical control applications in automation? [3GPP Release 19]
+
+- A. Open-loop control, closed-loop control, sequence control, and batch control
+- B. Periodic deterministic communication, aperiodic deterministic communication, non-deterministic communication, and mixed traffic
+- C. Deterministic periodic communication, deterministic aperiodic communication, and non-deterministic communication
+- D. Deterministic periodic communication, deterministic aperiodic communication, and mixed traffic
+- E. Open-loop control, closed-loop control, and sequence control
+
+<details><summary>看答案</summary>
+
+正解：A　（GSMA `teleqna-train-7985`）
+
+</details>
+
+**135.** What is the purpose of the MCImp-MC_ARCH work item? [3GPP Release 14]
+
+- A. To specify a common functional architecture for MCVideo
+- B. To specify a common functional architecture for MCData
+- C. To specify a common functional architecture for all mission critical services
+- D. To specify a common functional architecture for MCPTT only
+
+<details><summary>看答案</summary>
+
+正解：C　（GSMA `teleqna-train-27`）
+
+</details>
+
+**136.** Which 5G vertical domain is the maritime domain a part of? [3GPP Release 16]
+
+- A. Public safety domain
+- B. Automotive domain
+- C. Factory automation domain
+- D. Satellite industrial domain
+- E. None of the above
+
+<details><summary>看答案</summary>
+
+正解：E　（GSMA `teleqna-train-59`）
+
+</details>
+
+**137.** What is the primary goal of constructing smart buildings?
+
+- A. To provide low-cost services to tenants
+- B. To reduce energy costs
+- C. To improve productivity and life quality of occupants
+- D. To collaborate with automation systems for disaster management
+- E. To provide emergency services
+
+<details><summary>看答案</summary>
+
+正解：C　（GSMA `teleqna-train-81`）
+
+</details>
 
 **138.** What is the advantage of using EA-UI in terms of processing latency?
 
@@ -2669,76 +2738,6 @@
 <details><summary>看答案</summary>
 
 正解：C　（GSMA `teleqna-train-4703`）
-
-</details>
-
-**333.** What is the attack basis in a dependent attack?
-
-- A. Attacker's own sensing results
-- B. Fusion rules
-- C. Current sensing results of other malicious users
-- D. All of the above
-- E. None of the above
-
-<details><summary>看答案</summary>
-
-正解：D　（GSMA `teleqna-train-4803`）
-
-</details>
-
-**334.** Which of the following is a challenge faced in the integration of clinical data?
-
-- A. Fragmentation of a patient's data across various participants
-- B. Different coding systems used by different data silos
-- C. Lack of temporal order documentation
-- D. The requirement for de-identification
-- E. All of the above
-
-<details><summary>看答案</summary>
-
-正解：E　（GSMA `teleqna-train-4905`）
-
-</details>
-
-**335.** What are the procedures for a Target UE’s privacy exception list? [3GPP Release 17]
-
-- A. Provisioning and withdrawal
-- B. Provisioning and invocation
-- C. Invocation and user control
-- D. User control and withdrawal
-- E. Barring capability and invocation
-
-<details><summary>看答案</summary>
-
-正解：A　（GSMA `teleqna-train-5039`）
-
-</details>
-
-**336.** What is the attack opportunity in a probabilistic attack?
-
-- A. Attacker decides whether or not to attack with a certain probability
-- B. Attacker decides whether to attack based on the current slots' observations
-- C. Attacker decides whether to attack based on utility function
-- D. Attacker determines when to attack according to the network's convergence process
-- E. Attacker decides when to attack randomly
-
-<details><summary>看答案</summary>
-
-正解：A　（GSMA `teleqna-train-5414`）
-
-</details>
-
-**337.** What is a countermeasure against spoofing and jamming attacks for ultrasonic and RADAR sensors?
-
-- A. Physical signal authentication through customization of the ping signal
-- B. Single-transmitter, multiple-receiver sensor structure
-- C. Collaborative detection using ultrasonic sensors
-- D. All of the above
-- E. None of the above
-
-<details><summary>看答案</summary>
-
-正解：D　（GSMA `teleqna-train-5469`）
 
 </details>
 

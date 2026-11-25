@@ -1,8 +1,78 @@
-# 附錄　未歸類的 GSMA 訓練題（第 1、2、4 章歸類時都找不到小節）（1219 題）（第 5／7 頁）
+# 附錄　未歸類的 GSMA 訓練題（第 1、2、4 章歸類時都找不到小節）（1281 題）（第 5／7 頁）
 
 頁次：[1](appendix-unassigned.md)　[2](appendix-unassigned-p2.md)　[3](appendix-unassigned-p3.md)　[4](appendix-unassigned-p4.md)　**5**　[6](appendix-unassigned-p6.md)　[7](appendix-unassigned-p7.md)
 
-### 其他（756 題）（續）
+### 其他（813 題）（續）
+
+**333.** What is the attack basis in a dependent attack?
+
+- A. Attacker's own sensing results
+- B. Fusion rules
+- C. Current sensing results of other malicious users
+- D. All of the above
+- E. None of the above
+
+<details><summary>看答案</summary>
+
+正解：D　（GSMA `teleqna-train-4803`）
+
+</details>
+
+**334.** Which of the following is a challenge faced in the integration of clinical data?
+
+- A. Fragmentation of a patient's data across various participants
+- B. Different coding systems used by different data silos
+- C. Lack of temporal order documentation
+- D. The requirement for de-identification
+- E. All of the above
+
+<details><summary>看答案</summary>
+
+正解：E　（GSMA `teleqna-train-4905`）
+
+</details>
+
+**335.** What are the procedures for a Target UE’s privacy exception list? [3GPP Release 17]
+
+- A. Provisioning and withdrawal
+- B. Provisioning and invocation
+- C. Invocation and user control
+- D. User control and withdrawal
+- E. Barring capability and invocation
+
+<details><summary>看答案</summary>
+
+正解：A　（GSMA `teleqna-train-5039`）
+
+</details>
+
+**336.** What is the attack opportunity in a probabilistic attack?
+
+- A. Attacker decides whether or not to attack with a certain probability
+- B. Attacker decides whether to attack based on the current slots' observations
+- C. Attacker decides whether to attack based on utility function
+- D. Attacker determines when to attack according to the network's convergence process
+- E. Attacker decides when to attack randomly
+
+<details><summary>看答案</summary>
+
+正解：A　（GSMA `teleqna-train-5414`）
+
+</details>
+
+**337.** What is a countermeasure against spoofing and jamming attacks for ultrasonic and RADAR sensors?
+
+- A. Physical signal authentication through customization of the ping signal
+- B. Single-transmitter, multiple-receiver sensor structure
+- C. Collaborative detection using ultrasonic sensors
+- D. All of the above
+- E. None of the above
+
+<details><summary>看答案</summary>
+
+正解：D　（GSMA `teleqna-train-5469`）
+
+</details>
 
 **338.** What are the exposure limits on environmental electric fields intended to avoid? [IEEE C95.1]
 
@@ -2664,75 +2734,6 @@
 <details><summary>看答案</summary>
 
 正解：B　（GSMA `teleqna-train-6982`）
-
-</details>
-
-**533.** What is the energy detection threshold for CSAT (Carrier-Sensing Adaptive Transmission)?
-
-- A. -62 dBm
-- B. -50 dBm
-- C. -70 dBm
-- D. -80 dBm
-
-<details><summary>看答案</summary>
-
-正解：A　（GSMA `teleqna-train-7071`）
-
-</details>
-
-**534.** What is SAR in perfect adiabatic conditions? [IEEE C95.1]
-
-- A. The rate of heat production in tissue exposed to RF energy
-- B. The rate of temperature change in tissue exposed to RF energy
-- C. The rate of RF energy absorption in tissue
-- D. The rate of heat loss in tissue exposed to RF energy
-- E. The specific heat capacity of tissue
-
-<details><summary>看答案</summary>
-
-正解：C　（GSMA `teleqna-train-7112`）
-
-</details>
-
-**535.** What is an issue in multi-modal imaging in terms of misregistration?
-
-- A. Spatial and temporal misregistration
-- B. Frequency misregistration
-- C. Resolution misregistration
-- D. Coverage misregistration
-- E. Interference misregistration
-
-<details><summary>看答案</summary>
-
-正解：A　（GSMA `teleqna-train-7169`）
-
-</details>
-
-**536.** What is the assumed adverse reaction threshold for magnetic stimulation in 50% of human subjects at frequencies below 1 Hz? [IEEE C95.1]
-
-- A. 3 T rms (1.5 T peak)
-- B. 06 T rms (1.5 T peak)
-- C. 75 V/mpeak
-- D. 92 V/m (peak)
-- E. 97 V/m (peak)
-
-<details><summary>看答案</summary>
-
-正解：B　（GSMA `teleqna-train-7254`）
-
-</details>
-
-**537.** What is the term used for states that behave deterministically in some basis?
-
-- A. Boundary states
-- B. Entangled states
-- C. Mixed states
-- D. Probabilistic states
-- E. Pure states
-
-<details><summary>看答案</summary>
-
-正解：E　（GSMA `teleqna-train-7399`）
 
 </details>
 

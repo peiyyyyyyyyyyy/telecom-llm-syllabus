@@ -1,8 +1,22 @@
-# 附錄　未歸類的 GSMA 訓練題（第 1、2、4 章歸類時都找不到小節）（1219 題）（第 2／7 頁）
+# 附錄　未歸類的 GSMA 訓練題（第 1、2、4 章歸類時都找不到小節）（1281 題）（第 2／7 頁）
 
 頁次：[1](appendix-unassigned.md)　**2**　[3](appendix-unassigned-p3.md)　[4](appendix-unassigned-p4.md)　[5](appendix-unassigned-p5.md)　[6](appendix-unassigned-p6.md)　[7](appendix-unassigned-p7.md)
 
 ### 物聯網（96 題）（續）
+
+**64.** Which approach of streaming data analytics is less sensible for IoT (Internet of Things) applications near the source of data?
+
+- A. High-performance computing
+- B. Incremental processing
+- C. Streaming data
+- D. Data parallelism
+- E. Cloud platforms
+
+<details><summary>看答案</summary>
+
+正解：D　（GSMA `teleqna-train-3570`）
+
+</details>
 
 **65.** Why is dynamic composition important in IoT (Internet of Things) solutions?
 
@@ -442,7 +456,7 @@
 
 </details>
 
-### 定位（71 題）
+### 定位（74 題）
 
 **1.** Which localization system ensures autonomous geo-spatial localization, navigation, and timing services on a global or regional basis?
 
@@ -1416,6 +1430,47 @@
 <details><summary>看答案</summary>
 
 正解：B　（GSMA `teleqna-train-3285`）
+
+</details>
+
+**72.** Which deployment scenario involves determining the locations to place static chargers in a static network, where the devices can share energy with each other?
+
+- A. Static Wireless Charger Deployment
+- B. Mobile Wireless Charger Deployment
+- C. Multihop Provisioning Scenario
+- D. Landmark Provisioning Scenario
+- E. Path Provisioning Scenario
+
+<details><summary>看答案</summary>
+
+正解：C　（GSMA `teleqna-train-3436`）
+
+</details>
+
+**73.** What does resource allocation in computation offloading depend on?
+
+- A. Edge computing sever selections
+- B. Task types
+- C. Latency requirements
+- D. Mobilities
+- E. All of the above
+
+<details><summary>看答案</summary>
+
+正解：E　（GSMA `teleqna-train-5620`）
+
+</details>
+
+**74.** What resources should be optimized in resource allocation for UAV-enabled MEC (mobile edge computing) networks?
+
+- A. Communication bandwidth, offloading power, and offloading time
+- B. CPU frequency and computation time
+- C. Trajectory, fly speed, and accelerated velocity
+- D. All of the above
+
+<details><summary>看答案</summary>
+
+正解：D　（GSMA `teleqna-train-2057`）
 
 </details>
 
@@ -2638,7 +2693,7 @@
 
 </details>
 
-### 快取（29 題）
+### 快取（30 題）
 
 **1.** What are the characteristics of caching helpers in the proposed architecture?
 
@@ -2691,60 +2746,6 @@
 <details><summary>看答案</summary>
 
 正解：C　（GSMA `teleqna-train-3133`）
-
-</details>
-
-**5.** What do small base stations in femtocaching networks have?
-
-- A. High-bandwidth backhaul links and low storage capabilities
-- B. Low-bandwidth backhaul links and high storage capabilities
-- C. High-bandwidth backhaul links and high storage capabilities
-- D. Low-bandwidth backhaul links and low storage capabilities
-- E. No backhaul links and only storage capabilities
-
-<details><summary>看答案</summary>
-
-正解：B　（GSMA `teleqna-train-4157`）
-
-</details>
-
-**6.** What are some types of attacks that mobile edge caching systems need to address?
-
-- A. Jamming and spoofing attacks
-- B. DoS and man-in-the-middle attacks
-- C. Privacy leakage and smart attacks
-- D. All of the above
-
-<details><summary>看答案</summary>
-
-正解：D　（GSMA `teleqna-train-5612`）
-
-</details>
-
-**7.** What is cache-hit probability?
-
-- A. The ratio of cache hits to cache misses
-- B. The probability of finding the requested files in the cache
-- C. The performance gain from caching
-- D. The prediction accuracy of content popularity and user preference
-- E. The energy consumed at backhaul and BS for improper content placement
-
-<details><summary>看答案</summary>
-
-正解：B　（GSMA `teleqna-train-90`）
-
-</details>
-
-**8.** What is cache-enabled Coordinated Multi-Point Transmission (CoMP-JT)?
-
-- A. It is a method to offload client/server traffic in Device-to-Device communications.
-- B. It is a way to maximize the cache-hit probability in dynamic networks.
-- C. It is a network coding technique for multicast delivery.
-- D. It is a way to alleviate interference in small cell networks by exchanging channel information.
-
-<details><summary>看答案</summary>
-
-正解：D　（GSMA `teleqna-train-249`）
 
 </details>
 
