@@ -1,6 +1,6 @@
-# 附錄　未歸類的 GSMA 訓練題（第 1、2、4 章歸類時都找不到小節）（1195 題）（第 2／6 頁）
+# 附錄　未歸類的 GSMA 訓練題（第 1、2、4 章歸類時都找不到小節）（1219 題）（第 2／7 頁）
 
-頁次：[1](appendix-unassigned.md)　**2**　[3](appendix-unassigned-p3.md)　[4](appendix-unassigned-p4.md)　[5](appendix-unassigned-p5.md)　[6](appendix-unassigned-p6.md)
+頁次：[1](appendix-unassigned.md)　**2**　[3](appendix-unassigned-p3.md)　[4](appendix-unassigned-p4.md)　[5](appendix-unassigned-p5.md)　[6](appendix-unassigned-p6.md)　[7](appendix-unassigned-p7.md)
 
 ### 物聯網（96 題）（續）
 
@@ -442,7 +442,7 @@
 
 </details>
 
-### 定位（70 題）
+### 定位（71 題）
 
 **1.** Which localization system ensures autonomous geo-spatial localization, navigation, and timing services on a global or regional basis?
 
@@ -1406,7 +1406,20 @@
 
 </details>
 
-### 網路資料分析（NWDAF 等）（48 題）
+**71.** What type of information can be obtained from GPS (Global Positioning System) data?
+
+- A. Vehicle and environmental information
+- B. Navigation information
+- C. Real-time road vision
+- D. High-definition videos
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-3285`）
+
+</details>
+
+### 網路資料分析（NWDAF 等）（49 題）
 
 **1.** How does the NWDAF collect information from the UPF? [3GPP Release 18]
 
@@ -2057,6 +2070,20 @@
 <details><summary>看答案</summary>
 
 正解：D　（GSMA `teleqna-train-6021`）
+
+</details>
+
+**49.** What are some uses of analytics in healthcare?
+
+- A. Identifying at-risk patients
+- B. Tracking clinical outcomes
+- C. Performance measurement and management
+- D. Clinical decision making
+- E. All of the above
+
+<details><summary>看答案</summary>
+
+正解：E　（GSMA `teleqna-train-3058`）
 
 </details>
 
@@ -2721,31 +2748,4 @@
 
 </details>
 
-**9.** What is the purpose of collaborative caching in mobile edge computing?
-
-- A. To reduce energy consumption
-- B. To improve data privacy
-- C. To increase the storage capacity of edge devices
-- D. To distribute popular data among end users
-- E. To enhance communication efficiency
-
-<details><summary>看答案</summary>
-
-正解：D　（GSMA `teleqna-train-839`）
-
-</details>
-
-**10.** What do the benefits and solutions of caching highly depend on?
-
-- A. Spectral efficiency
-- B. Network performance
-- C. Content popularity
-- D. Traffic characteristics
-
-<details><summary>看答案</summary>
-
-正解：D　（GSMA `teleqna-train-1060`）
-
-</details>
-
-頁次：[1](appendix-unassigned.md)　**2**　[3](appendix-unassigned-p3.md)　[4](appendix-unassigned-p4.md)　[5](appendix-unassigned-p5.md)　[6](appendix-unassigned-p6.md)
+頁次：[1](appendix-unassigned.md)　**2**　[3](appendix-unassigned-p3.md)　[4](appendix-unassigned-p4.md)　[5](appendix-unassigned-p5.md)　[6](appendix-unassigned-p6.md)　[7](appendix-unassigned-p7.md)

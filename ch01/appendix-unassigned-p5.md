@@ -1,8 +1,36 @@
-# 附錄　未歸類的 GSMA 訓練題（第 1、2、4 章歸類時都找不到小節）（1195 題）（第 5／6 頁）
+# 附錄　未歸類的 GSMA 訓練題（第 1、2、4 章歸類時都找不到小節）（1219 題）（第 5／7 頁）
 
-頁次：[1](appendix-unassigned.md)　[2](appendix-unassigned-p2.md)　[3](appendix-unassigned-p3.md)　[4](appendix-unassigned-p4.md)　**5**　[6](appendix-unassigned-p6.md)
+頁次：[1](appendix-unassigned.md)　[2](appendix-unassigned-p2.md)　[3](appendix-unassigned-p3.md)　[4](appendix-unassigned-p4.md)　**5**　[6](appendix-unassigned-p6.md)　[7](appendix-unassigned-p7.md)
 
-### 其他（734 題）（續）
+### 其他（756 題）（續）
+
+**338.** What are the exposure limits on environmental electric fields intended to avoid? [IEEE C95.1]
+
+- A. Synapse activity alteration
+- B. Unpleasant spark discharges
+- C. Painful contact currents
+- D. Nerve excitation
+- E. Cardiac excitation
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-5644`）
+
+</details>
+
+**339.** What is the adverse reaction factor (FA) for brain stimulation? [IEEE C95.1]
+
+- A. 0
+- B. 45
+- C. 0
+- D. 0
+- E. 0
+
+<details><summary>看答案</summary>
+
+正解：A　（GSMA `teleqna-train-5766`）
+
+</details>
 
 **340.** What are the three subclasses of differential privacy implementation in transportation systems?
 
@@ -2708,32 +2736,4 @@
 
 </details>
 
-**538.** What is the definition of a LSA preferential access cell?
-
-- A. A cell that belongs to the Localised Service Area (LSA) and allows UEs of subscribed LSA users higher priority to resources compared to non-LSA users in the same cell.
-- B. A cell that receives exclusive access from non-LSA users, allowing only LSAs subscribers to camp on it.
-- C. A cell that allows only UEs of subscribed LSA users to access it, with limited services being available outside the coverage area of subscribed LSAs.
-- D. A cell that provides specific services within a Localised Service Area (LSA).
-- E. A cell that allows connectivity of IP-capable UEs via a H(e)NB to other IP-capable devices in the local residential/corporate IP network.
-
-<details><summary>看答案</summary>
-
-正解：A　（GSMA `teleqna-train-7484`）
-
-</details>
-
-**539.** What does DRL stand for? [IEEE C95.1]
-
-- A. Duty Ratio Limit
-- B. Dosimetric Reference Limit
-- C. Depreciated Reference Level
-- D. Disrupted Radiation Level
-- E. Duty Field Limit
-
-<details><summary>看答案</summary>
-
-正解：B　（GSMA `teleqna-train-7607`）
-
-</details>
-
-頁次：[1](appendix-unassigned.md)　[2](appendix-unassigned-p2.md)　[3](appendix-unassigned-p3.md)　[4](appendix-unassigned-p4.md)　**5**　[6](appendix-unassigned-p6.md)
+頁次：[1](appendix-unassigned.md)　[2](appendix-unassigned-p2.md)　[3](appendix-unassigned-p3.md)　[4](appendix-unassigned-p4.md)　**5**　[6](appendix-unassigned-p6.md)　[7](appendix-unassigned-p7.md)

@@ -1,8 +1,35 @@
-# 附錄　未歸類的 GSMA 訓練題（第 1、2、4 章歸類時都找不到小節）（1195 題）（第 3／6 頁）
+# 附錄　未歸類的 GSMA 訓練題（第 1、2、4 章歸類時都找不到小節）（1219 題）（第 3／7 頁）
 
-頁次：[1](appendix-unassigned.md)　[2](appendix-unassigned-p2.md)　**3**　[4](appendix-unassigned-p4.md)　[5](appendix-unassigned-p5.md)　[6](appendix-unassigned-p6.md)
+頁次：[1](appendix-unassigned.md)　[2](appendix-unassigned-p2.md)　**3**　[4](appendix-unassigned-p4.md)　[5](appendix-unassigned-p5.md)　[6](appendix-unassigned-p6.md)　[7](appendix-unassigned-p7.md)
 
 ### 快取（29 題）（續）
+
+**9.** What is the purpose of collaborative caching in mobile edge computing?
+
+- A. To reduce energy consumption
+- B. To improve data privacy
+- C. To increase the storage capacity of edge devices
+- D. To distribute popular data among end users
+- E. To enhance communication efficiency
+
+<details><summary>看答案</summary>
+
+正解：D　（GSMA `teleqna-train-839`）
+
+</details>
+
+**10.** What do the benefits and solutions of caching highly depend on?
+
+- A. Spectral efficiency
+- B. Network performance
+- C. Content popularity
+- D. Traffic characteristics
+
+<details><summary>看答案</summary>
+
+正解：D　（GSMA `teleqna-train-1060`）
+
+</details>
 
 **11.** What is the purpose of edge caching?
 
@@ -836,7 +863,7 @@
 
 </details>
 
-### 其他（734 題）
+### 其他（756 題）
 
 **1.** Which RFID (radio-frequency identification) systems allow tags to communicate with each other directly?
 
@@ -2709,31 +2736,4 @@
 
 </details>
 
-**138.** What is the advantage of using EA-UI in terms of processing latency?
-
-- A. Reduces the buffering latency
-- B. Reduces the decoding latency
-- C. Reduces both buffering and decoding latency
-- D. No impact on processing latency
-
-<details><summary>看答案</summary>
-
-正解：C　（GSMA `teleqna-train-93`）
-
-</details>
-
-**139.** In which scenario are Hybrid Access Networks primarily deployed?
-
-- A. Urban areas with high-speed xDSL connections
-- B. Rural areas with limited xDSL connectivity
-- C. Data centers with high bandwidth requirements
-- D. Enterprise networks with multiple Internet connections
-- E. Public Wi-Fi networks with high user density
-
-<details><summary>看答案</summary>
-
-正解：B　（GSMA `teleqna-train-180`）
-
-</details>
-
-頁次：[1](appendix-unassigned.md)　[2](appendix-unassigned-p2.md)　**3**　[4](appendix-unassigned-p4.md)　[5](appendix-unassigned-p5.md)　[6](appendix-unassigned-p6.md)
+頁次：[1](appendix-unassigned.md)　[2](appendix-unassigned-p2.md)　**3**　[4](appendix-unassigned-p4.md)　[5](appendix-unassigned-p5.md)　[6](appendix-unassigned-p6.md)　[7](appendix-unassigned-p7.md)

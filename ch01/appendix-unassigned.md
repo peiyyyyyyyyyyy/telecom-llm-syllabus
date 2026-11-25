@@ -1,4 +1,4 @@
-# 附錄　未歸類的 GSMA 訓練題（第 1、2、4 章歸類時都找不到小節）（1195 題）（第 1／6 頁）
+# 附錄　未歸類的 GSMA 訓練題（第 1、2、4 章歸類時都找不到小節）（1219 題）（第 1／7 頁）
 
 這些題目屬於 GSMA 知識科，但課綱目前沒有對應的小節。分組只依題目關鍵字粗分，僅供之後擴充課綱參考；訓練時照常使用。
 
@@ -6,15 +6,15 @@
 |---|---|
 | 側鏈、D2D 與車聯網 | 136 |
 | 物聯網 | 96 |
-| 定位 | 70 |
-| 網路資料分析（NWDAF 等） | 48 |
+| 定位 | 71 |
+| 網路資料分析（NWDAF 等） | 49 |
 | 區塊鏈 | 40 |
 | 快取 | 29 |
 | 量子 | 26 |
 | 認知無線電與頻譜共享 | 16 |
-| 其他 | 734 |
+| 其他 | 756 |
 
-頁次：**1**　[2](appendix-unassigned-p2.md)　[3](appendix-unassigned-p3.md)　[4](appendix-unassigned-p4.md)　[5](appendix-unassigned-p5.md)　[6](appendix-unassigned-p6.md)
+頁次：**1**　[2](appendix-unassigned-p2.md)　[3](appendix-unassigned-p3.md)　[4](appendix-unassigned-p4.md)　[5](appendix-unassigned-p5.md)　[6](appendix-unassigned-p6.md)　[7](appendix-unassigned-p7.md)
 
 ### 側鏈、D2D 與車聯網（136 題）
 
@@ -2761,4 +2761,4 @@
 
 </details>
 
-頁次：**1**　[2](appendix-unassigned-p2.md)　[3](appendix-unassigned-p3.md)　[4](appendix-unassigned-p4.md)　[5](appendix-unassigned-p5.md)　[6](appendix-unassigned-p6.md)
+頁次：**1**　[2](appendix-unassigned-p2.md)　[3](appendix-unassigned-p3.md)　[4](appendix-unassigned-p4.md)　[5](appendix-unassigned-p5.md)　[6](appendix-unassigned-p6.md)　[7](appendix-unassigned-p7.md)

@@ -1,8 +1,35 @@
-# 附錄　未歸類的 GSMA 訓練題（第 1、2、4 章歸類時都找不到小節）（1195 題）（第 4／6 頁）
+# 附錄　未歸類的 GSMA 訓練題（第 1、2、4 章歸類時都找不到小節）（1219 題）（第 4／7 頁）
 
-頁次：[1](appendix-unassigned.md)　[2](appendix-unassigned-p2.md)　[3](appendix-unassigned-p3.md)　**4**　[5](appendix-unassigned-p5.md)　[6](appendix-unassigned-p6.md)
+頁次：[1](appendix-unassigned.md)　[2](appendix-unassigned-p2.md)　[3](appendix-unassigned-p3.md)　**4**　[5](appendix-unassigned-p5.md)　[6](appendix-unassigned-p6.md)　[7](appendix-unassigned-p7.md)
 
-### 其他（734 題）（續）
+### 其他（756 題）（續）
+
+**138.** What is the advantage of using EA-UI in terms of processing latency?
+
+- A. Reduces the buffering latency
+- B. Reduces the decoding latency
+- C. Reduces both buffering and decoding latency
+- D. No impact on processing latency
+
+<details><summary>看答案</summary>
+
+正解：C　（GSMA `teleqna-train-93`）
+
+</details>
+
+**139.** In which scenario are Hybrid Access Networks primarily deployed?
+
+- A. Urban areas with high-speed xDSL connections
+- B. Rural areas with limited xDSL connectivity
+- C. Data centers with high bandwidth requirements
+- D. Enterprise networks with multiple Internet connections
+- E. Public Wi-Fi networks with high user density
+
+<details><summary>看答案</summary>
+
+正解：B　（GSMA `teleqna-train-180`）
+
+</details>
 
 **140.** What does DTS stand for?
 
@@ -2715,32 +2742,4 @@
 
 </details>
 
-**338.** What are the exposure limits on environmental electric fields intended to avoid? [IEEE C95.1]
-
-- A. Synapse activity alteration
-- B. Unpleasant spark discharges
-- C. Painful contact currents
-- D. Nerve excitation
-- E. Cardiac excitation
-
-<details><summary>看答案</summary>
-
-正解：B　（GSMA `teleqna-train-5644`）
-
-</details>
-
-**339.** What is the adverse reaction factor (FA) for brain stimulation? [IEEE C95.1]
-
-- A. 0
-- B. 45
-- C. 0
-- D. 0
-- E. 0
-
-<details><summary>看答案</summary>
-
-正解：A　（GSMA `teleqna-train-5766`）
-
-</details>
-
-頁次：[1](appendix-unassigned.md)　[2](appendix-unassigned-p2.md)　[3](appendix-unassigned-p3.md)　**4**　[5](appendix-unassigned-p5.md)　[6](appendix-unassigned-p6.md)
+頁次：[1](appendix-unassigned.md)　[2](appendix-unassigned-p2.md)　[3](appendix-unassigned-p3.md)　**4**　[5](appendix-unassigned-p5.md)　[6](appendix-unassigned-p6.md)　[7](appendix-unassigned-p7.md)
